@@ -1,0 +1,6101 @@
+{
+  "Alpenrose Dairy Day 2": [
+    {
+      "number": "153",
+      "place": "1",
+      "name": "Brady Cowing",
+      "team": "Team 10 Barrel",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "57",
+      "place": "2",
+      "name": "Joshua Boelter",
+      "team": "Cyclepath Racing",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "68",
+      "place": "3",
+      "name": "Andre Vogs",
+      "team": "BBC Bike Gallery Continental",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "173",
+      "place": "4",
+      "name": "Joel Sherman",
+      "team": null,
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "60",
+      "place": "5",
+      "name": "Matthew Boelter",
+      "team": "Cyclepath Racing",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "8",
+      "place": "6",
+      "name": "Rob Shatting",
+      "team": "Boneyard Cycling",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "183",
+      "place": "7",
+      "name": "Frederick Smelser",
+      "team": null,
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "31",
+      "place": "8",
+      "name": "Whitney Phillips",
+      "team": "Dialed Cycling Team",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "123",
+      "place": "9",
+      "name": "Gregg Rice",
+      "team": "Team Lazy Tarantulas",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "137",
+      "place": "10",
+      "name": "Phil Crawley",
+      "team": "HutchΓÇÖs Bend Dental",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "81",
+      "place": "11",
+      "name": "Jerry Pruiett",
+      "team": "Dialed Cycling Team",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "157",
+      "place": "12",
+      "name": "Ryan McIntyre",
+      "team": null,
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "49",
+      "place": "13",
+      "name": "D'Arcy Owen",
+      "team": "Grouptrail Cycling",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "133",
+      "place": "14",
+      "name": "Ian Stromquist",
+      "team": "Team Finger",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "167",
+      "place": "15",
+      "name": null,
+      "team": null,
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "177",
+      "place": "16",
+      "name": "Eric Alderman",
+      "team": "Team Planet X USA p/b Xiologix",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "72",
+      "place": "17",
+      "name": "Martin Joyce",
+      "team": "Metropolis Cycle Repair",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "130",
+      "place": "18",
+      "name": "Jared Lathrop",
+      "team": "Grouptrail Cycling",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "5",
+      "place": "19",
+      "name": "David Kaysen",
+      "team": "Dialed Cycling Team",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "160",
+      "place": "20",
+      "name": "Steven Hyde",
+      "team": "bicycleattorney.com",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "14",
+      "place": "21",
+      "name": "Kevin Dickson",
+      "team": "Hammer Velo",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "9",
+      "place": "22",
+      "name": "Eric Hagen",
+      "team": null,
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "75",
+      "place": "23",
+      "name": "John Lazur",
+      "team": null,
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "100",
+      "place": "24",
+      "name": "John Lopez",
+      "team": "Trusty Switchblade",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "124",
+      "place": "25",
+      "name": "Scott LaPlante",
+      "team": "Indy",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "141",
+      "place": "26",
+      "name": "Stefano Spedini",
+      "team": "Biciclista Test Team",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "174",
+      "place": "27",
+      "name": "Brad Self",
+      "team": "Grouptrail Cycling",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "13",
+      "place": "28",
+      "name": "John Wilger",
+      "team": "Team Oregon p/b Rodda Paint",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "111",
+      "place": "29",
+      "name": "Michael Clark",
+      "team": "Stumptown Cycling Club",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "113",
+      "place": "30",
+      "name": "Luke Bergerson",
+      "team": "Capitol Velo",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "17",
+      "place": "31",
+      "name": "Stephen Carter",
+      "team": "The Spokesmen",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "104",
+      "place": "32",
+      "name": "Ryan Schimpf",
+      "team": "Half Fast Velo presented by Ninkasi Brewing",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "143",
+      "place": "33",
+      "name": "Kyle Trefry",
+      "team": "Broadmark/Mt Si Racing",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "24",
+      "place": "34",
+      "name": "Tony Pitone",
+      "team": null,
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "178",
+      "place": "35",
+      "name": "Ben Baltazar",
+      "team": null,
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "2",
+      "place": "36",
+      "name": "Jason Jones",
+      "team": "Team Planet X USA p/b Xiologix",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "18",
+      "place": "37",
+      "name": "Barry Pieratt",
+      "team": "Half Fast Velo presented by Ninkasi Brewing",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "110",
+      "place": "38",
+      "name": "Adam Vanarsdall",
+      "team": null,
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "1",
+      "place": "39",
+      "name": "Brad Alderman",
+      "team": "Team Planet X USA p/b Xiologix",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "32",
+      "place": "40",
+      "name": "Matthew Jetton",
+      "team": null,
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "27",
+      "place": "41",
+      "name": "Ben Hein",
+      "team": "Hydro Flask - Focus - Westy Basecamp",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "74",
+      "place": "42",
+      "name": "Derek Chiles",
+      "team": null,
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "129",
+      "place": "43",
+      "name": "Eric Hunter",
+      "team": "Rolling Thunder p/b The Missing Link",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "134",
+      "place": "44",
+      "name": "Burk Webb",
+      "team": "Portland Velo Racing",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "171",
+      "place": "45",
+      "name": "Tyler Jackson",
+      "team": "Capital Velo cycling. ",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "84",
+      "place": "46",
+      "name": "Gerardo Perez",
+      "team": null,
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "35",
+      "place": "47",
+      "name": "Andy Morris",
+      "team": "Dialed Cycling Team",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "186",
+      "place": "48",
+      "name": "Brian Smith",
+      "team": "Team Finger",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "125",
+      "place": "49",
+      "name": "John Baldwin",
+      "team": "Half Fast Velo presented by Ninkasi Brewing",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "164",
+      "place": "50",
+      "name": "Austin Kingsley",
+      "team": "Work Truck Direct",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "94",
+      "place": "51",
+      "name": "Mike Lurie",
+      "team": "bicycleattorney.com",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "10",
+      "place": "52",
+      "name": "Joe Pinzone",
+      "team": "Threshold Velo",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "58",
+      "place": "53",
+      "name": "Steven Soto",
+      "team": "Team Planet X USA p/b Xiologix",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "190",
+      "place": "54",
+      "name": "Bryan Smith",
+      "team": "Hammer Velo",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "41",
+      "place": "55",
+      "name": "Dave Petermeier",
+      "team": "Team Planet X USA p/b Xiologix",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "37",
+      "place": "56",
+      "name": "Mark Sather",
+      "team": "Team 10 Barrel",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "114",
+      "place": "57",
+      "name": "Jeff Christensen",
+      "team": "Half Penny Cycling Team",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "163",
+      "place": "58",
+      "name": "Chris Wisdom",
+      "team": null,
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "28",
+      "place": "59",
+      "name": "Jeff Dill",
+      "team": "ANTHM Collective",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "30",
+      "place": "60",
+      "name": "Brandon Cornejo",
+      "team": "ANTHM Collective",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "179",
+      "place": "61",
+      "name": "Danny Hoile",
+      "team": "bicycleattorney.com",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "78",
+      "place": "62",
+      "name": "Jason Ladwig",
+      "team": null,
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "73",
+      "place": "63",
+      "name": "David Rayls",
+      "team": "Fast Fun Nice Racing Team p/b Wattie Ink",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "188",
+      "place": "64",
+      "name": "Mike Schwoebel",
+      "team": null,
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "189",
+      "place": "65",
+      "name": "Alan Love",
+      "team": "Thursday Night Specials",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "155",
+      "place": "66",
+      "name": "Curtis Milander",
+      "team": "Team Oregon p/b Rodda Paint",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "48",
+      "place": "67",
+      "name": "Steven Rose",
+      "team": "Fast Fun Nice Racing Team p/b Wattie Ink",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "156",
+      "place": "68",
+      "name": "Jim Campbell",
+      "team": "Team Lazy Tarantulas",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "6",
+      "place": "69",
+      "name": "Albert Passadore",
+      "team": "Hammer Velo",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "152",
+      "place": "70",
+      "name": "Phil Avery",
+      "team": "Team Beer",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "149",
+      "place": "71",
+      "name": "Bodjie Train",
+      "team": "Grouptrail Cycling",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "176",
+      "place": "72",
+      "name": "Brian Westhaver",
+      "team": "Team Lazy Tarantulas",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "170",
+      "place": "73",
+      "name": "Justin Baxter",
+      "team": null,
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "172",
+      "place": "74",
+      "name": "Bret Waldron",
+      "team": "Sage Titanium",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "131",
+      "place": "75",
+      "name": "Jonathan Modie",
+      "team": "Team S+M",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "145",
+      "place": "76",
+      "name": "Kevin Claggett",
+      "team": "Fast Fun Nice Racing Team p/b Wattie Ink",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "117",
+      "place": "77",
+      "name": "Bjoern Brunner",
+      "team": null,
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "175",
+      "place": "78",
+      "name": "Bryan Gauntt",
+      "team": null,
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "181",
+      "place": "79",
+      "name": "Dave Wrast",
+      "team": "The Spokesmen",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "26",
+      "place": "80",
+      "name": "Robert Copenhaver",
+      "team": "Grouptrail Cycling",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "47",
+      "place": "81",
+      "name": "Daniel Salvey",
+      "team": null,
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "185",
+      "place": "82",
+      "name": "Nick Boespflug",
+      "team": null,
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "90",
+      "place": "83",
+      "name": "Matthew Cordeiro",
+      "team": "Team Finger",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "151",
+      "place": "84",
+      "name": "John Livingston",
+      "team": "Murder of Crows",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "109",
+      "place": "85",
+      "name": "Ted Taylor",
+      "team": "Deschutes Brewery",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "159",
+      "place": "86",
+      "name": "Reyaz Rohani",
+      "team": null,
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "192",
+      "place": "87",
+      "name": "Dave Reines",
+      "team": null,
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "15",
+      "place": "88",
+      "name": "Mark Hand",
+      "team": "Team Planet X USA p/b Xiologix",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "126",
+      "place": "89",
+      "name": "Travis Bullard",
+      "team": null,
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "33",
+      "place": "90",
+      "name": "Adam Peterson",
+      "team": null,
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "182",
+      "place": "91",
+      "name": "Nathan Petz",
+      "team": "The Spokesmen",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "191",
+      "place": "92",
+      "name": "Scott Krand",
+      "team": null,
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "169",
+      "place": "93",
+      "name": "Jorge Lara",
+      "team": "Capitol Velo",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "193",
+      "place": "94",
+      "name": "Stewart Schesnack",
+      "team": null,
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "54",
+      "place": "95",
+      "name": "Trevor Cable",
+      "team": null,
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "184",
+      "place": "96",
+      "name": "Jacob Roth",
+      "team": null,
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "168",
+      "place": "97",
+      "name": "Chris Valencia",
+      "team": "Boneyard Cycling",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "180",
+      "place": "98",
+      "name": "John Pettitt",
+      "team": "ANTHM Collective",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "21",
+      "place": "99",
+      "name": "Andrew Kaylor",
+      "team": "Team Planet X USA p/b Xiologix",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "187",
+      "place": "100",
+      "name": "Roberto Diaz",
+      "team": null,
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "166",
+      "place": "101",
+      "name": "Neil Kranz",
+      "team": null,
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "122",
+      "place": "DNF",
+      "name": "Andrew Duncan",
+      "team": "BeerMongers ",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "146",
+      "place": "DNF",
+      "name": "Benoit Dubuisson",
+      "team": "Voler/Easton/HRS/Rock Lobster",
+      "cat": "Masters 35+ 4"
+    },
+    {
+      "number": "829",
+      "place": "1",
+      "name": "John Wilson",
+      "team": "Team S+M",
+      "cat": "Masters 60+"
+    },
+    {
+      "number": "840",
+      "place": "2",
+      "name": "Kevin Johnson",
+      "team": "Egencia",
+      "cat": "Masters 60+"
+    },
+    {
+      "number": "820",
+      "place": "3",
+      "name": "Joe Field",
+      "team": "Field/Jerger",
+      "cat": "Masters 60+"
+    },
+    {
+      "number": "810",
+      "place": "4",
+      "name": "Tim Ellerbruch",
+      "team": "Rebound/Tireless Velo",
+      "cat": "Masters 60+"
+    },
+    {
+      "number": "800",
+      "place": "5",
+      "name": "Mark Schwyhart",
+      "team": "Team S+M",
+      "cat": "Masters 60+"
+    },
+    {
+      "number": "838",
+      "place": "6",
+      "name": "Dave Burnard",
+      "team": null,
+      "cat": "Masters 60+"
+    },
+    {
+      "number": "816",
+      "place": "7",
+      "name": "David Luoma",
+      "team": "Cyclepath Racing",
+      "cat": "Masters 60+"
+    },
+    {
+      "number": "823",
+      "place": "8",
+      "name": "Mark Lipchick",
+      "team": "Eugene Velo Fast Carbon Race Team",
+      "cat": "Masters 60+"
+    },
+    {
+      "number": "804",
+      "place": "9",
+      "name": "Jeff Hollister",
+      "team": "Team Oregon p/b Rodda Paint",
+      "cat": "Masters 60+"
+    },
+    {
+      "number": "846",
+      "place": "10",
+      "name": "Marcel Russenberger",
+      "team": "Deschutes Brewery",
+      "cat": "Masters 60+"
+    },
+    {
+      "number": "824",
+      "place": "11",
+      "name": "Stefan Furst",
+      "team": "Dialed Cycling Team",
+      "cat": "Masters 60+"
+    },
+    {
+      "number": "801",
+      "place": "12",
+      "name": "Ron Strasser",
+      "team": "Team S+M",
+      "cat": "Masters 60+"
+    },
+    {
+      "number": "806",
+      "place": "13",
+      "name": "Mark Hildebrandt",
+      "team": "Cyclepath Racing",
+      "cat": "Masters 60+"
+    },
+    {
+      "number": "828",
+      "place": "14",
+      "name": "Paul Mautner",
+      "team": "Veloforma",
+      "cat": "Masters 60+"
+    },
+    {
+      "number": "826",
+      "place": "15",
+      "name": "Hugh Givens",
+      "team": "bicycleattorney.com",
+      "cat": "Masters 60+"
+    },
+    {
+      "number": "819",
+      "place": "16",
+      "name": "Dan Davis",
+      "team": "WebCyclery.com",
+      "cat": "Masters 60+"
+    },
+    {
+      "number": "835",
+      "place": "17",
+      "name": "Rick Gregory",
+      "team": "Black Dog Velo",
+      "cat": "Masters 60+"
+    },
+    {
+      "number": "822",
+      "place": "18",
+      "name": "John Nicholas",
+      "team": "Stumptown Cycling Club",
+      "cat": "Masters 60+"
+    },
+    {
+      "number": "817",
+      "place": "19",
+      "name": "Adam Tate",
+      "team": "Eugene Velo Racing",
+      "cat": "Masters 60+"
+    },
+    {
+      "number": "844",
+      "place": "20",
+      "name": "Karl Jackson",
+      "team": null,
+      "cat": "Masters 60+"
+    },
+    {
+      "number": "843",
+      "place": "21",
+      "name": "John Degenhardt",
+      "team": null,
+      "cat": "Masters 60+"
+    },
+    {
+      "number": "808",
+      "place": "1",
+      "name": "Russell Speirn",
+      "team": "Cyclepath Racing",
+      "cat": "Masters 70+"
+    },
+    {
+      "number": "652",
+      "place": "2",
+      "name": "Tom Heywood",
+      "team": "Gillespie Eye Care/Arlberg Sports",
+      "cat": "Masters 70+"
+    },
+    {
+      "number": "650",
+      "place": "3",
+      "name": "Gary LeGendre",
+      "team": null,
+      "cat": "Masters 70+"
+    },
+    {
+      "number": "653",
+      "place": "4",
+      "name": "Tad Hodgert",
+      "team": "Deschutes Brewery",
+      "cat": "Masters 70+"
+    },
+    {
+      "number": "811",
+      "place": "5",
+      "name": "Loren Russell",
+      "team": "Vegan Fleez!",
+      "cat": "Masters 70+"
+    },
+    {
+      "number": "100",
+      "place": "1",
+      "name": "Tim Sherry",
+      "team": null,
+      "cat": "Men 5"
+    },
+    {
+      "number": "13",
+      "place": "2",
+      "name": "Josue Jimenez",
+      "team": "TEAM MOUNTAIN VIEW CYCLES ",
+      "cat": "Men 5"
+    },
+    {
+      "number": "123",
+      "place": "3",
+      "name": "Andrew Hanson",
+      "team": "Endurance Boise",
+      "cat": "Men 5"
+    },
+    {
+      "number": "180",
+      "place": "4",
+      "name": "Kenneth Stedman",
+      "team": "Grouptrail Cyclding",
+      "cat": "Men 5"
+    },
+    {
+      "number": "3",
+      "place": "5",
+      "name": "Dan Froelich",
+      "team": null,
+      "cat": "Men 5"
+    },
+    {
+      "number": "160",
+      "place": "6",
+      "name": "Darin Joseph",
+      "team": "Team Finger",
+      "cat": "Men 5"
+    },
+    {
+      "number": "135",
+      "place": "7",
+      "name": "Jeremy Gomez",
+      "team": "New York Pedal Demons",
+      "cat": "Men 5"
+    },
+    {
+      "number": "159",
+      "place": "8",
+      "name": "Jose Torres",
+      "team": null,
+      "cat": "Men 5"
+    },
+    {
+      "number": "97",
+      "place": "9",
+      "name": "Tim Simundza",
+      "team": null,
+      "cat": "Men 5"
+    },
+    {
+      "number": "104",
+      "place": "10",
+      "name": "Kieran Stover",
+      "team": null,
+      "cat": "Men 5"
+    },
+    {
+      "number": "5",
+      "place": "11",
+      "name": "Connor Shimamoto",
+      "team": null,
+      "cat": "Men 5"
+    },
+    {
+      "number": "99",
+      "place": "12",
+      "name": "Rodney Billowitz",
+      "team": "Slippery Sasquatch Racing",
+      "cat": "Men 5"
+    },
+    {
+      "number": "31",
+      "place": "13",
+      "name": "Alastair Cox",
+      "team": null,
+      "cat": "Men 5"
+    },
+    {
+      "number": "178",
+      "place": "14",
+      "name": "Jered Bogli",
+      "team": "Thursday Night Specials",
+      "cat": "Men 5"
+    },
+    {
+      "number": "154",
+      "place": "15",
+      "name": "Tony Ruiz",
+      "team": null,
+      "cat": "Men 5"
+    },
+    {
+      "number": "39",
+      "place": "16",
+      "name": "Jamie King",
+      "team": "Holtey Brown p/b Peak Condition",
+      "cat": "Men 5"
+    },
+    {
+      "number": "156",
+      "place": "17",
+      "name": "Daniel Higgins",
+      "team": null,
+      "cat": "Men 5"
+    },
+    {
+      "number": "146",
+      "place": "18",
+      "name": "Stephen Holmberg",
+      "team": "Filth and Fury",
+      "cat": "Men 5"
+    },
+    {
+      "number": "162",
+      "place": "19",
+      "name": "Zach Silvey",
+      "team": null,
+      "cat": "Men 5"
+    },
+    {
+      "number": "116",
+      "place": "20",
+      "name": "Erik Neilson",
+      "team": null,
+      "cat": "Men 5"
+    },
+    {
+      "number": "136",
+      "place": "21",
+      "name": "Willy Beebe",
+      "team": "BYRDS",
+      "cat": "Men 5"
+    },
+    {
+      "number": "141",
+      "place": "22",
+      "name": "Ryan Smith",
+      "team": null,
+      "cat": "Men 5"
+    },
+    {
+      "number": "147",
+      "place": "23",
+      "name": "Adam Andrus",
+      "team": "Swift Racing ",
+      "cat": "Men 5"
+    },
+    {
+      "number": "2",
+      "place": "24",
+      "name": "Joe Derting",
+      "team": "Fast Fun Nice Racing Team p/b Wattie Ink",
+      "cat": "Men 5"
+    },
+    {
+      "number": "183",
+      "place": "25",
+      "name": "Robert Marcotte",
+      "team": null,
+      "cat": "Men 5"
+    },
+    {
+      "number": "91",
+      "place": "26",
+      "name": "Alden Welsch",
+      "team": "Team Finger",
+      "cat": "Men 5"
+    },
+    {
+      "number": "129",
+      "place": "27",
+      "name": null,
+      "team": null,
+      "cat": "Men 5"
+    },
+    {
+      "number": "58",
+      "place": "28",
+      "name": "Heath Korvola",
+      "team": "Team 10 Barrel",
+      "cat": "Men 5"
+    },
+    {
+      "number": "174",
+      "place": "29",
+      "name": null,
+      "team": null,
+      "cat": "Men 5"
+    },
+    {
+      "number": "107",
+      "place": "30",
+      "name": "Justin Brown",
+      "team": null,
+      "cat": "Men 5"
+    },
+    {
+      "number": "98",
+      "place": "31",
+      "name": "Dylan Potter",
+      "team": null,
+      "cat": "Men 5"
+    },
+    {
+      "number": "168",
+      "place": "32",
+      "name": "Steve Lamper",
+      "team": "Eugene Velo Racing",
+      "cat": "Men 5"
+    },
+    {
+      "number": "157",
+      "place": "33",
+      "name": "Eric Taylor",
+      "team": null,
+      "cat": "Men 5"
+    },
+    {
+      "number": "165",
+      "place": "34",
+      "name": "Dennis McCord",
+      "team": null,
+      "cat": "Men 5"
+    },
+    {
+      "number": "153",
+      "place": "35",
+      "name": "Chris Daniels",
+      "team": null,
+      "cat": "Men 5"
+    },
+    {
+      "number": "182",
+      "place": "36",
+      "name": null,
+      "team": null,
+      "cat": "Men 5"
+    },
+    {
+      "number": "103",
+      "place": "37",
+      "name": "Eric Nisley",
+      "team": "Team Finger",
+      "cat": "Men 5"
+    },
+    {
+      "number": "125",
+      "place": "38",
+      "name": "Robby King",
+      "team": "BeerMongers ",
+      "cat": "Men 5"
+    },
+    {
+      "number": "185",
+      "place": "39",
+      "name": "Travis Hays",
+      "team": null,
+      "cat": "Men 5"
+    },
+    {
+      "number": "158",
+      "place": "40",
+      "name": "Eric Wynkoop",
+      "team": "Rouxbe",
+      "cat": "Men 5"
+    },
+    {
+      "number": "181",
+      "place": "41",
+      "name": "Craig Bradford",
+      "team": null,
+      "cat": "Men 5"
+    },
+    {
+      "number": "10",
+      "place": "42",
+      "name": "Erick Taft",
+      "team": "Camas Bike and Sport",
+      "cat": "Men 5"
+    },
+    {
+      "number": "170",
+      "place": "43",
+      "name": "Ian Morelan",
+      "team": null,
+      "cat": "Men 5"
+    },
+    {
+      "number": "176",
+      "place": "44",
+      "name": "Severen Menashe-Strom",
+      "team": "Revolver-Cascadia",
+      "cat": "Men 5"
+    },
+    {
+      "number": "184",
+      "place": "45",
+      "name": "Christopher Mount",
+      "team": "Block Bikes PDX",
+      "cat": "Men 5"
+    },
+    {
+      "number": "164",
+      "place": "46",
+      "name": "Dominic Paris",
+      "team": null,
+      "cat": "Men 5"
+    },
+    {
+      "number": "166",
+      "place": "47",
+      "name": "Anthony Edgerton",
+      "team": null,
+      "cat": "Men 5"
+    },
+    {
+      "number": "179",
+      "place": "48",
+      "name": "Carl Steinke",
+      "team": null,
+      "cat": "Men 5"
+    },
+    {
+      "number": "35",
+      "place": "49",
+      "name": "Benito Guzman",
+      "team": null,
+      "cat": "Men 5"
+    },
+    {
+      "number": "173",
+      "place": "50",
+      "name": "Ben Helgren",
+      "team": "Block Bikes PDX",
+      "cat": "Men 5"
+    },
+    {
+      "number": "163",
+      "place": "51",
+      "name": "Sarah Layton",
+      "team": "Fast Fun Nice Racing Team p/b Wattie Ink",
+      "cat": "Men 5"
+    },
+    {
+      "number": "169",
+      "place": "52",
+      "name": "Morgan Spriggs",
+      "team": "Fast Fun Nice Racing Team p/b Wattie Ink",
+      "cat": "Men 5"
+    },
+    {
+      "number": "155",
+      "place": "53",
+      "name": "Thomas Duffly",
+      "team": null,
+      "cat": "Men 5"
+    },
+    {
+      "number": "161",
+      "place": "54",
+      "name": "Scott Graves",
+      "team": null,
+      "cat": "Men 5"
+    },
+    {
+      "number": "133",
+      "place": "55",
+      "name": "Isaac Marron",
+      "team": null,
+      "cat": "Men 5"
+    },
+    {
+      "number": "175",
+      "place": "56",
+      "name": "Christopher Bullard",
+      "team": null,
+      "cat": "Men 5"
+    },
+    {
+      "number": "53",
+      "place": "57",
+      "name": "Dirk Alenduff",
+      "team": null,
+      "cat": "Men 5"
+    },
+    {
+      "number": "167",
+      "place": "58",
+      "name": "David Neilson",
+      "team": null,
+      "cat": "Men 5"
+    },
+    {
+      "number": "171",
+      "place": "59",
+      "name": "Anthony Dryer",
+      "team": null,
+      "cat": "Men 5"
+    },
+    {
+      "number": "177",
+      "place": "DNF",
+      "name": "Collin Kinzer",
+      "team": "Revolver-Cascadia",
+      "cat": "Men 5"
+    },
+    {
+      "number": "838",
+      "place": "1",
+      "name": "Janelle Bickford",
+      "team": "Metropolis Cycle Repair",
+      "cat": "Singlespeed Women"
+    },
+    {
+      "number": "840",
+      "place": "2",
+      "name": "Ivy Audrain",
+      "team": "Poler",
+      "cat": "Singlespeed Women"
+    },
+    {
+      "number": "808",
+      "place": "3",
+      "name": "Megan Faris",
+      "team": "River City Bicycles",
+      "cat": "Singlespeed Women"
+    },
+    {
+      "number": "802",
+      "place": "4",
+      "name": "Holland LaRue",
+      "team": "Team Finger",
+      "cat": "Singlespeed Women"
+    },
+    {
+      "number": "814",
+      "place": "5",
+      "name": "Stephanie Hahn",
+      "team": "Stumptown Cycling Club",
+      "cat": "Singlespeed Women"
+    },
+    {
+      "number": "801",
+      "place": "6",
+      "name": "Mielle Blomberg",
+      "team": "Team S+M",
+      "cat": "Singlespeed Women"
+    },
+    {
+      "number": "817",
+      "place": "7",
+      "name": "Alana Armstrong",
+      "team": "HiFi Sound Cycling Components",
+      "cat": "Singlespeed Women"
+    },
+    {
+      "number": "843",
+      "place": "8",
+      "name": "Makena Gove",
+      "team": "Sweetpea Ladies Auxiliary",
+      "cat": "Singlespeed Women"
+    },
+    {
+      "number": "823",
+      "place": "9",
+      "name": "Julie Russell",
+      "team": "GFHFBN Racing Team",
+      "cat": "Singlespeed Women"
+    },
+    {
+      "number": "833",
+      "place": "10",
+      "name": "Sheri Masessa",
+      "team": "Flywheel Bicycle Solutions",
+      "cat": "Singlespeed Women"
+    },
+    {
+      "number": "807",
+      "place": "11",
+      "name": "Mari Little",
+      "team": "BeerMongers ",
+      "cat": "Singlespeed Women"
+    },
+    {
+      "number": "841",
+      "place": "12",
+      "name": "Erin Reis",
+      "team": "Hutch's Bend Dental",
+      "cat": "Singlespeed Women"
+    },
+    {
+      "number": "844",
+      "place": "13",
+      "name": "Alison Crocker",
+      "team": null,
+      "cat": "Singlespeed Women"
+    },
+    {
+      "number": "818",
+      "place": "14",
+      "name": null,
+      "team": null,
+      "cat": "Singlespeed Women"
+    },
+    {
+      "number": "835",
+      "place": "15",
+      "name": "Stephanie Spiak",
+      "team": "Team 10 Barrel",
+      "cat": "Singlespeed Women"
+    },
+    {
+      "number": "825",
+      "place": "16",
+      "name": "Patti Wolfe",
+      "team": "Co-Motion Factory Racing Team",
+      "cat": "Singlespeed Women"
+    },
+    {
+      "number": "138",
+      "place": "1",
+      "name": "Steve C Williams",
+      "team": "Half Penny Cycling Team",
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "163",
+      "place": "2",
+      "name": "Patrick Reedy",
+      "team": "CX Pistols p/b Gigantic Brewing",
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "157",
+      "place": "3",
+      "name": "Matt Berg",
+      "team": null,
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "49",
+      "place": "4",
+      "name": "Eric Mergen",
+      "team": "Team Planet X USA p/b Xiologix",
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "121",
+      "place": "5",
+      "name": "David Marchi",
+      "team": "Murder of Crows",
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "164",
+      "place": "6",
+      "name": "Andrew Usher",
+      "team": "Fast Fun Nice Racing Team p/b Wattie Ink",
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "111",
+      "place": "7",
+      "name": "Kevin Ryan",
+      "team": null,
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "129",
+      "place": "8",
+      "name": "Thomas Pastor",
+      "team": "Deschutes Brewery",
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "114",
+      "place": "9",
+      "name": "Tony Thayer",
+      "team": "Grouptrail Cycling",
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "37",
+      "place": "10",
+      "name": "Nolan Restivo",
+      "team": null,
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "21",
+      "place": "11",
+      "name": "Marcus Marjama",
+      "team": "Rebound/Tireless Velo",
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "105",
+      "place": "12",
+      "name": "Curtis Brawner",
+      "team": "Ace Window Tinting",
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "81",
+      "place": "13",
+      "name": "Chris Moor",
+      "team": "Deschutes Brewery",
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "159",
+      "place": "14",
+      "name": "Josh Sutton",
+      "team": "Fast Fun Nice Racing Team p/b Wattie Ink",
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "18",
+      "place": "15",
+      "name": "Franz Bruggemeier",
+      "team": "Point S Racing",
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "43",
+      "place": "16",
+      "name": "Will Cortez",
+      "team": "Oregon Bike Shop Racing Team",
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "124",
+      "place": "17",
+      "name": "Randy Scott",
+      "team": "Deschutes Brewery",
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "92",
+      "place": "18",
+      "name": "Bradley Pfeiffer",
+      "team": "Deschutes Brewery",
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "62",
+      "place": "19",
+      "name": "David Rasca",
+      "team": "Half Penny Cycling Team",
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "45",
+      "place": "20",
+      "name": "David Johnson",
+      "team": "Team Oregon p/b Rodda Paint",
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "116",
+      "place": "21",
+      "name": "Dustin Tombleson",
+      "team": "Boneyard Cycling",
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "4",
+      "place": "22",
+      "name": "Dean Maclean",
+      "team": "Team Planet X USA p/b Xiologix",
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "102",
+      "place": "23",
+      "name": "Aaron Tarnow",
+      "team": "Boneyard Cycling",
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "87",
+      "place": "24",
+      "name": "Joseph Hagedorn",
+      "team": "Grouptrail Cycling",
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "123",
+      "place": "25",
+      "name": "Geoff Wittreich",
+      "team": "Grouptrail Cycling",
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "65",
+      "place": "26",
+      "name": "Gavin McGregor",
+      "team": "Bethany Bike Repair pb CycleOne Racing Academy",
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "22",
+      "place": "27",
+      "name": "Jeff Copus",
+      "team": "Team 10 Barrel",
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "10",
+      "place": "28",
+      "name": "Jeff Chochon",
+      "team": "Fast Fun Nice Racing Team p/b Wattie Ink",
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "60",
+      "place": "29",
+      "name": "Gregory Dufour",
+      "team": "Fast Fun Nice Racing Team p/b Wattie Ink",
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "89",
+      "place": "30",
+      "name": "Ryan Chase",
+      "team": "Deschutes Brewery",
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "70",
+      "place": "31",
+      "name": "Richard Wilks",
+      "team": "Rebound/Tireless Velo",
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "137",
+      "place": "32",
+      "name": "Rob Beard",
+      "team": "Team Eastside Cycles",
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "107",
+      "place": "33",
+      "name": "Michael Kolb",
+      "team": "ANTHM Collective",
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "46",
+      "place": "34",
+      "name": "Andy Letourneau",
+      "team": "River City Bicycles",
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "118",
+      "place": "35",
+      "name": "Nikolaus Kashey",
+      "team": null,
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "78",
+      "place": "36",
+      "name": "Gabriel Cabatic",
+      "team": "Trusty Switchblade",
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "26",
+      "place": "37",
+      "name": "James Green",
+      "team": "Trusty Switchblade",
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "104",
+      "place": "38",
+      "name": "Ryan Barnes",
+      "team": "POC",
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "97",
+      "place": "39",
+      "name": "Todd Grover",
+      "team": "Boneyard Cycling",
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "126",
+      "place": "40",
+      "name": "Mark Adamski",
+      "team": "Monkey Wrench Bicycle Club",
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "135",
+      "place": "41",
+      "name": "John Limbaugh",
+      "team": null,
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "151",
+      "place": "42",
+      "name": "Daniel Walker",
+      "team": "Barks + Wreck",
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "162",
+      "place": "43",
+      "name": "Noel Johnson",
+      "team": null,
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "152",
+      "place": "44",
+      "name": "Curtis Loeb",
+      "team": "Hammer Velo",
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "53",
+      "place": "45",
+      "name": "Christopher Tuttle",
+      "team": "bicycleattorney.com",
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "158",
+      "place": "46",
+      "name": "Kenneth Pace",
+      "team": "Team S+M",
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "120",
+      "place": "47",
+      "name": "George P.S. McConnell",
+      "team": "Ace Window Tinting",
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "88",
+      "place": "48",
+      "name": "Joshua Hanselman",
+      "team": "343 Racing",
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "98",
+      "place": "49",
+      "name": "Simon Ingham",
+      "team": "Swift Racing ",
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "153",
+      "place": "50",
+      "name": "Tom Lenth",
+      "team": null,
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "134",
+      "place": "51",
+      "name": "Mark Skiffington",
+      "team": null,
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "166",
+      "place": "52",
+      "name": "James Bradley",
+      "team": "Cyclepath Racing",
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "133",
+      "place": "53",
+      "name": "Mike Wenrick",
+      "team": "HiFi Sound Cycling Components",
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "35",
+      "place": "54",
+      "name": "Timothy Breault",
+      "team": "Team Planet X USA p/b Xiologix",
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "109",
+      "place": "55",
+      "name": "Anthony Morales",
+      "team": "Boneyard Cycling",
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "115",
+      "place": "56",
+      "name": "Kyle Stephens",
+      "team": "BeerMongers ",
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "156",
+      "place": "57",
+      "name": "Max Heckscher",
+      "team": null,
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "140",
+      "place": "58",
+      "name": "John Dendiuk",
+      "team": null,
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "155",
+      "place": "59",
+      "name": "Chuck Meyer",
+      "team": "Murder of Crows",
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "142",
+      "place": "60",
+      "name": "Christian Martin",
+      "team": "River City Bicycles",
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "85",
+      "place": "61",
+      "name": "Matthew Dial",
+      "team": "Deschutes Brewery",
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "127",
+      "place": "62",
+      "name": "Kyle Mills",
+      "team": "Murder of Crows",
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "149",
+      "place": "63",
+      "name": "Josh Snyder",
+      "team": "Marys Bicycle Club",
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "165",
+      "place": "64",
+      "name": "Ashley Williams",
+      "team": "ANTHM Collective",
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "150",
+      "place": "65",
+      "name": "Yuji Sumimoto",
+      "team": null,
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "106",
+      "place": "66",
+      "name": "Alex Dombroski",
+      "team": "Fast Fun Nice Racing Team p/b Wattie Ink",
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "38",
+      "place": "67",
+      "name": "Sean Cook",
+      "team": "Cyclepath Racing",
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "113",
+      "place": "68",
+      "name": "David Schmitz",
+      "team": "Team Finger",
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "139",
+      "place": "69",
+      "name": "Demian Bailey",
+      "team": "Marys Bicycle Club",
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "52",
+      "place": "70",
+      "name": "Bob Crow",
+      "team": "Team Lazy Tarantulas",
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "154",
+      "place": "71",
+      "name": "Ian Harris",
+      "team": null,
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "96",
+      "place": "72",
+      "name": "Christophe Berteau-pavy",
+      "team": null,
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "167",
+      "place": "73",
+      "name": "Brian Johnson",
+      "team": "Tuite Bicycle Repair",
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "141",
+      "place": "74",
+      "name": "Vincent Zitkovich",
+      "team": null,
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "148",
+      "place": "75",
+      "name": "Jared McClintock",
+      "team": null,
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "59",
+      "place": "76",
+      "name": "Andy Platt",
+      "team": null,
+      "cat": "Masters 35+ 3"
+    },
+    {
+      "number": "724",
+      "place": "1",
+      "name": "Paul Bourcier",
+      "team": "TCNF.LEGAL Racing Team",
+      "cat": "Masters 50+"
+    },
+    {
+      "number": "806",
+      "place": "2",
+      "name": "David Sjogren",
+      "team": "Sunnyside Sports",
+      "cat": "Masters 50+"
+    },
+    {
+      "number": "701",
+      "place": "3",
+      "name": "Rick Metz",
+      "team": "bicycleattorney.com",
+      "cat": "Masters 50+"
+    },
+    {
+      "number": "727",
+      "place": "4",
+      "name": "Rodney Trepess",
+      "team": "Deschutes Brewery",
+      "cat": "Masters 50+"
+    },
+    {
+      "number": "813",
+      "place": "5",
+      "name": "Martin Baker",
+      "team": "bicycleattorney.com",
+      "cat": "Masters 50+"
+    },
+    {
+      "number": "704",
+      "place": "6",
+      "name": "Todd Rosier",
+      "team": "Therapeutic Associates Racing p/b Pacific Office",
+      "cat": "Masters 50+"
+    },
+    {
+      "number": "800",
+      "place": "7",
+      "name": "Michael Nyberg",
+      "team": "Sunnyside Sports",
+      "cat": "Masters 50+"
+    },
+    {
+      "number": "712",
+      "place": "8",
+      "name": "Bob Jacobs",
+      "team": "bicycleattorney.com",
+      "cat": "Masters 50+"
+    },
+    {
+      "number": "700",
+      "place": "9",
+      "name": "Michael Metz",
+      "team": "bicycleattorney.com",
+      "cat": "Masters 50+"
+    },
+    {
+      "number": "808",
+      "place": "10",
+      "name": "Dave Tricamo",
+      "team": "Team dfL",
+      "cat": "Masters 50+"
+    },
+    {
+      "number": "703",
+      "place": "11",
+      "name": "Jeff Steiner",
+      "team": "Half Fast Velo presented by Ninkasi Brewing",
+      "cat": "Masters 50+"
+    },
+    {
+      "number": "709",
+      "place": "12",
+      "name": "Christopher Van Tilburg",
+      "team": "Team Finger",
+      "cat": "Masters 50+"
+    },
+    {
+      "number": "807",
+      "place": "13",
+      "name": "Scott Trautman",
+      "team": "Dialed Cycling Team",
+      "cat": "Masters 50+"
+    },
+    {
+      "number": "835",
+      "place": "14",
+      "name": "Paolo Dabbeni",
+      "team": "Biciclista Team PDX",
+      "cat": "Masters 50+"
+    },
+    {
+      "number": "811",
+      "place": "15",
+      "name": "Mark Williams",
+      "team": "Flywheel Bicycle Solutions",
+      "cat": "Masters 50+"
+    },
+    {
+      "number": "705",
+      "place": "16",
+      "name": "Jeff Standish",
+      "team": "Sage Titanium",
+      "cat": "Masters 50+"
+    },
+    {
+      "number": "711",
+      "place": "17",
+      "name": "Andy Leritz",
+      "team": "Team Lazy Tarantulas",
+      "cat": "Masters 50+"
+    },
+    {
+      "number": "740",
+      "place": "18",
+      "name": "Ted Lamb",
+      "team": "Rebound/Tireless Velo",
+      "cat": "Masters 50+"
+    },
+    {
+      "number": "843",
+      "place": "19",
+      "name": "Mike Bene",
+      "team": "Tuite Bicycle Repair",
+      "cat": "Masters 50+"
+    },
+    {
+      "number": "815",
+      "place": "20",
+      "name": "Matt Engel",
+      "team": "Murder of Crows",
+      "cat": "Masters 50+"
+    },
+    {
+      "number": "776",
+      "place": "21",
+      "name": "John Foulston",
+      "team": null,
+      "cat": "Masters 50+"
+    },
+    {
+      "number": "803",
+      "place": "22",
+      "name": "Scott A Rider",
+      "team": null,
+      "cat": "Masters 50+"
+    },
+    {
+      "number": "796",
+      "place": "23",
+      "name": "Robert Burke",
+      "team": null,
+      "cat": "Masters 50+"
+    },
+    {
+      "number": "708",
+      "place": "24",
+      "name": "Tom Strodtbeck",
+      "team": "bicycleattorney.com",
+      "cat": "Masters 50+"
+    },
+    {
+      "number": "721",
+      "place": "25",
+      "name": "John Hatfield",
+      "team": "Dialed Cycling Team",
+      "cat": "Masters 50+"
+    },
+    {
+      "number": "715",
+      "place": "26",
+      "name": "JD Jaspersen",
+      "team": null,
+      "cat": "Masters 50+"
+    },
+    {
+      "number": "713",
+      "place": "27",
+      "name": "Jeff Nary",
+      "team": "Sagebrush Cycles",
+      "cat": "Masters 50+"
+    },
+    {
+      "number": "834",
+      "place": "28",
+      "name": "Donald Newlands",
+      "team": "bicycleattorney.com",
+      "cat": "Masters 50+"
+    },
+    {
+      "number": "802",
+      "place": "29",
+      "name": "Eric Pool",
+      "team": "bicycleattorney.com",
+      "cat": "Masters 50+"
+    },
+    {
+      "number": "772",
+      "place": "30",
+      "name": "William Goritski",
+      "team": "Rebound/Tireless Velo",
+      "cat": "Masters 50+"
+    },
+    {
+      "number": "788",
+      "place": "31",
+      "name": "George Wescott",
+      "team": "Bend Memorial Clinic Total Care Racing Team",
+      "cat": "Masters 50+"
+    },
+    {
+      "number": "783",
+      "place": "32",
+      "name": "Trig Rogers",
+      "team": "bicycleattorney.com",
+      "cat": "Masters 50+"
+    },
+    {
+      "number": "845",
+      "place": "33",
+      "name": "Chris Sautter",
+      "team": "ANTHM Collective",
+      "cat": "Masters 50+"
+    },
+    {
+      "number": "823",
+      "place": "34",
+      "name": "Eric Stolberg",
+      "team": "ANTHM Collective",
+      "cat": "Masters 50+"
+    },
+    {
+      "number": "840",
+      "place": "35",
+      "name": "Scott Mares",
+      "team": "Threshold Velo",
+      "cat": "Masters 50+"
+    },
+    {
+      "number": "836",
+      "place": "36",
+      "name": "Anthony Ohotto",
+      "team": "ANTHM Collective",
+      "cat": "Masters 50+"
+    },
+    {
+      "number": "799",
+      "place": "37",
+      "name": "Dave Masessa",
+      "team": "Flywheel Bicycle Solutions",
+      "cat": "Masters 50+"
+    },
+    {
+      "number": "820",
+      "place": "38",
+      "name": "Jon Pearson",
+      "team": "Sage Titanium",
+      "cat": "Masters 50+"
+    },
+    {
+      "number": "778",
+      "place": "39",
+      "name": "Tony Wolff",
+      "team": "Stumptown Cycling Club",
+      "cat": "Masters 50+"
+    },
+    {
+      "number": "841",
+      "place": "40",
+      "name": "Buzz Truitt",
+      "team": "Rebound/Tireless Velo",
+      "cat": "Masters 50+"
+    },
+    {
+      "number": "826",
+      "place": "41",
+      "name": "Tim Rathbun",
+      "team": "Molalla River BMX",
+      "cat": "Masters 50+"
+    },
+    {
+      "number": "822",
+      "place": "42",
+      "name": "Dan Shepherd",
+      "team": "Team Cycle Sport",
+      "cat": "Masters 50+"
+    },
+    {
+      "number": "714",
+      "place": "43",
+      "name": "Mike Schrankel",
+      "team": "Team Finger",
+      "cat": "Masters 50+"
+    },
+    {
+      "number": "752",
+      "place": "44",
+      "name": "David Dorocke",
+      "team": "Deschutes Brewery",
+      "cat": "Masters 50+"
+    },
+    {
+      "number": "774",
+      "place": "45",
+      "name": "Greg Talbert",
+      "team": null,
+      "cat": "Masters 50+"
+    },
+    {
+      "number": "759",
+      "place": "46",
+      "name": "Jason Bietz",
+      "team": null,
+      "cat": "Masters 50+"
+    },
+    {
+      "number": "725",
+      "place": "47",
+      "name": "Bob Croucher",
+      "team": "Rebound/Tireless Velo",
+      "cat": "Masters 50+"
+    },
+    {
+      "number": "838",
+      "place": "48",
+      "name": "Leland Jossy",
+      "team": "Showers Pass Racing Team",
+      "cat": "Masters 50+"
+    },
+    {
+      "number": "769",
+      "place": "49",
+      "name": "Tim Goss",
+      "team": "Rebound/Tireless Velo",
+      "cat": "Masters 50+"
+    },
+    {
+      "number": "825",
+      "place": "50",
+      "name": "Ian Kennedy",
+      "team": "Bicycle Attorney",
+      "cat": "Masters 50+"
+    },
+    {
+      "number": "739",
+      "place": "51",
+      "name": "Paul Greenwalt",
+      "team": "bicycleattorney.com",
+      "cat": "Masters 50+"
+    },
+    {
+      "number": "787",
+      "place": "52",
+      "name": "Steve Shaw",
+      "team": "Therapeutic Associates Racing p/b Pacific Office",
+      "cat": "Masters 50+"
+    },
+    {
+      "number": "812",
+      "place": "53",
+      "name": "David Anderson",
+      "team": "Boneyard Cycling",
+      "cat": "Masters 50+"
+    },
+    {
+      "number": "839",
+      "place": "54",
+      "name": "Eric Schusterman",
+      "team": "WebCyclery.com",
+      "cat": "Masters 50+"
+    },
+    {
+      "number": "844",
+      "place": "55",
+      "name": "James Sunderland",
+      "team": "bicycleattorney.com",
+      "cat": "Masters 50+"
+    },
+    {
+      "number": "754",
+      "place": "56",
+      "name": "Bob Rakoz",
+      "team": "Camas Bike and Sport",
+      "cat": "Masters 50+"
+    },
+    {
+      "number": "824",
+      "place": "57",
+      "name": "Kent Reynolds",
+      "team": "Murder of Crows",
+      "cat": "Masters 50+"
+    },
+    {
+      "number": "747",
+      "place": "58",
+      "name": "Steven Westberg",
+      "team": "Deschutes Brewery",
+      "cat": "Masters 50+"
+    },
+    {
+      "number": "832",
+      "place": "59",
+      "name": "Darin Hale",
+      "team": null,
+      "cat": "Masters 50+"
+    },
+    {
+      "number": "791",
+      "place": "60",
+      "name": "Mike Taylor",
+      "team": "Deschutes Brewery",
+      "cat": "Masters 50+"
+    },
+    {
+      "number": "833",
+      "place": "61",
+      "name": "David Bussey",
+      "team": "Showers Pass Cycling Team",
+      "cat": "Masters 50+"
+    },
+    {
+      "number": "842",
+      "place": "62",
+      "name": "Danny Houghton",
+      "team": "Southwest Bicycle/Absolute Six-Pack",
+      "cat": "Masters 50+"
+    },
+    {
+      "number": "819",
+      "place": "63",
+      "name": "David K. Smith",
+      "team": "Southwest Bicycle/Absolute Six-Pack",
+      "cat": "Masters 50+"
+    },
+    {
+      "number": "702",
+      "place": "64",
+      "name": "Jon Gove",
+      "team": "Grouptrail Cycling",
+      "cat": "Masters 50+"
+    },
+    {
+      "number": "762",
+      "place": "65",
+      "name": "Paul Brown",
+      "team": "Eugene Velo Racing",
+      "cat": "Masters 50+"
+    },
+    {
+      "number": "846",
+      "place": "66",
+      "name": "Alexander Dano",
+      "team": "Westenders",
+      "cat": "Masters 50+"
+    },
+    {
+      "number": "798",
+      "place": "67",
+      "name": "David Lenhart",
+      "team": "Boneyard Cycling",
+      "cat": "Masters 50+"
+    },
+    {
+      "number": "821",
+      "place": "68",
+      "name": "Billy Thomas",
+      "team": "Deschutes Brewery",
+      "cat": "Masters 50+"
+    },
+    {
+      "number": "716",
+      "place": "DNF",
+      "name": "Perry Lund",
+      "team": "Co-Motion Factory Racing Team",
+      "cat": "Masters 50+"
+    },
+    {
+      "number": "773",
+      "place": "DNF",
+      "name": "Bob Camillucci",
+      "team": "TEAM MOUNTAIN VIEW CYCLES ",
+      "cat": "Masters 50+"
+    },
+    {
+      "number": "25",
+      "place": "1",
+      "name": "Thomas Little",
+      "team": "BeerMongers ",
+      "cat": "Junior Men 9"
+    },
+    {
+      "number": "146",
+      "place": "2",
+      "name": "Talus Marchi",
+      "team": "Murder of Crows",
+      "cat": "Junior Men 9"
+    },
+    {
+      "number": "53",
+      "place": "1",
+      "name": "Peter Bentley",
+      "team": "Bend Endurance Academy",
+      "cat": "Junior Men 10-12"
+    },
+    {
+      "number": "4",
+      "place": "2",
+      "name": "Bjorn Blankenship",
+      "team": "Bend Endurance Academy",
+      "cat": "Junior Men 10-12"
+    },
+    {
+      "number": "42",
+      "place": "3",
+      "name": "Max Smith",
+      "team": "PDX Devo Junior Cycling",
+      "cat": "Junior Men 10-12"
+    },
+    {
+      "number": "14",
+      "place": "4",
+      "name": "Gavin Rice",
+      "team": "Team Lazy Tarantulas",
+      "cat": "Junior Men 10-12"
+    },
+    {
+      "number": "120",
+      "place": "5",
+      "name": "Peter Grover",
+      "team": "Bend Endurance Academy",
+      "cat": "Junior Men 10-12"
+    },
+    {
+      "number": "72",
+      "place": "6",
+      "name": "Jack Billowitz",
+      "team": "Bend Endurance Academy",
+      "cat": "Junior Men 10-12"
+    },
+    {
+      "number": "63",
+      "place": "7",
+      "name": "Daegan Hofeld",
+      "team": "Paul's Bicycle Way of Life Cycling Team",
+      "cat": "Junior Men 10-12"
+    },
+    {
+      "number": "3",
+      "place": "8",
+      "name": "Elliot Werner",
+      "team": null,
+      "cat": "Junior Men 10-12"
+    },
+    {
+      "number": "142",
+      "place": "9",
+      "name": "Hans Lanners",
+      "team": null,
+      "cat": "Junior Men 10-12"
+    },
+    {
+      "number": "50",
+      "place": "10",
+      "name": "Hendrik Hagedorn",
+      "team": "Grouptrail Cycling",
+      "cat": "Junior Men 10-12"
+    },
+    {
+      "number": "154",
+      "place": "11",
+      "name": "Kai Shays",
+      "team": "School of Send",
+      "cat": "Junior Men 10-12"
+    },
+    {
+      "number": "114",
+      "place": "12",
+      "name": "Cameron Wescott",
+      "team": "Bend Endurance Academy",
+      "cat": "Junior Men 10-12"
+    },
+    {
+      "number": "109",
+      "place": "13",
+      "name": "Tristan Peterson",
+      "team": "BRYDS",
+      "cat": "Junior Men 10-12"
+    },
+    {
+      "number": "104",
+      "place": "14",
+      "name": "Gregory DeBennedetti",
+      "team": null,
+      "cat": "Junior Men 10-12"
+    },
+    {
+      "number": "56",
+      "place": "15",
+      "name": "Gavin Newman",
+      "team": "Sage Titanium",
+      "cat": "Junior Men 10-12"
+    },
+    {
+      "number": "16",
+      "place": "16",
+      "name": "Hunter Westerfield",
+      "team": "Dialed Cycling Team",
+      "cat": "Junior Men 10-12"
+    },
+    {
+      "number": "155",
+      "place": "17",
+      "name": "Shu Yano",
+      "team": "Yatsugatake Cyclocross Club",
+      "cat": "Junior Men 10-12"
+    },
+    {
+      "number": "35",
+      "place": "18",
+      "name": "James Umberhandt",
+      "team": "Stumptown Cycling Club",
+      "cat": "Junior Men 10-12"
+    },
+    {
+      "number": "31",
+      "place": "19",
+      "name": "Simon Reynolds",
+      "team": "Team Lazy Tarantulas",
+      "cat": "Junior Men 10-12"
+    },
+    {
+      "number": "98",
+      "place": "20",
+      "name": "Noah Sampson",
+      "team": null,
+      "cat": "Junior Men 10-12"
+    },
+    {
+      "number": "59",
+      "place": "21",
+      "name": "Israel Jr. Melson",
+      "team": "Dialed Cycling Team",
+      "cat": "Junior Men 10-12"
+    },
+    {
+      "number": "57",
+      "place": "22",
+      "name": "Jack Hampson",
+      "team": "Sage Titanium",
+      "cat": "Junior Men 10-12"
+    },
+    {
+      "number": "123",
+      "place": "23",
+      "name": "Calder Tarnow",
+      "team": null,
+      "cat": "Junior Men 10-12"
+    },
+    {
+      "number": "82",
+      "place": "24",
+      "name": "Caleb Deschler",
+      "team": null,
+      "cat": "Junior Men 10-12"
+    },
+    {
+      "number": "151",
+      "place": "25",
+      "name": "Henry Tuttle",
+      "team": "bicycleattorney.com",
+      "cat": "Junior Men 10-12"
+    },
+    {
+      "number": "130",
+      "place": "26",
+      "name": "Baker Mills",
+      "team": null,
+      "cat": "Junior Men 10-12"
+    },
+    {
+      "number": "138",
+      "place": "27",
+      "name": "JD Wisowaty",
+      "team": null,
+      "cat": "Junior Men 10-12"
+    },
+    {
+      "number": "147",
+      "place": "28",
+      "name": "Cash Korvola",
+      "team": "Team 10 Barrel",
+      "cat": "Junior Men 10-12"
+    },
+    {
+      "number": "153",
+      "place": "29",
+      "name": "Beckett Olson",
+      "team": "LODG",
+      "cat": "Junior Men 10-12"
+    },
+    {
+      "number": "92",
+      "place": "30",
+      "name": "Miles Pitone",
+      "team": null,
+      "cat": "Junior Men 10-12"
+    },
+    {
+      "number": "112",
+      "place": "31",
+      "name": "Conner Vander Stoep",
+      "team": "Half Fast Velo presented by Ninkasi Brewing",
+      "cat": "Junior Men 10-12"
+    },
+    {
+      "number": "115",
+      "place": "DNF",
+      "name": "Ian Baker",
+      "team": "bicycleattorney.com",
+      "cat": "Junior Men 10-12"
+    },
+    {
+      "number": "105",
+      "place": "1",
+      "name": "Josiah Hanson",
+      "team": "BYRDS",
+      "cat": "Junior Men 13-14"
+    },
+    {
+      "number": "10",
+      "place": "2",
+      "name": "Jake Johansen",
+      "team": "PDX Devo Junior Cycling",
+      "cat": "Junior Men 13-14"
+    },
+    {
+      "number": "7",
+      "place": "3",
+      "name": "Zane Strait",
+      "team": "Bend Endurance Academy",
+      "cat": "Junior Men 13-14"
+    },
+    {
+      "number": "18",
+      "place": "4",
+      "name": "Aidan Rice94273333",
+      "team": "Team Lazy Tarantulas",
+      "cat": "Junior Men 13-14"
+    },
+    {
+      "number": "43",
+      "place": "5",
+      "name": "Calum Pierce",
+      "team": "PDX Devo Junior Cycling",
+      "cat": "Junior Men 13-14"
+    },
+    {
+      "number": "88",
+      "place": "6",
+      "name": "Sam Tate",
+      "team": "Bend Endurance Academy",
+      "cat": "Junior Men 13-14"
+    },
+    {
+      "number": "22",
+      "place": "7",
+      "name": "Halen Harrison",
+      "team": "PDX Devo Junior Cycling",
+      "cat": "Junior Men 13-14"
+    },
+    {
+      "number": "13",
+      "place": "8",
+      "name": "Brady Rice",
+      "team": "Team Lazy Tarantulas",
+      "cat": "Junior Men 13-14"
+    },
+    {
+      "number": "110",
+      "place": "9",
+      "name": "Joe Spranger",
+      "team": null,
+      "cat": "Junior Men 13-14"
+    },
+    {
+      "number": "27",
+      "place": "10",
+      "name": "Calvin Nary",
+      "team": "Bend Endurance Academy",
+      "cat": "Junior Men 13-14"
+    },
+    {
+      "number": "148",
+      "place": "11",
+      "name": "Peter Gutwald IV",
+      "team": "Hosmer Chiropractic -RPM Mortgage",
+      "cat": "Junior Men 13-14"
+    },
+    {
+      "number": "113",
+      "place": "12",
+      "name": "Evan Vander Stoep",
+      "team": null,
+      "cat": "Junior Men 13-14"
+    },
+    {
+      "number": "107",
+      "place": "1",
+      "name": "Benjamin Lomas",
+      "team": "BYRDS",
+      "cat": "Junior Men 15-16"
+    },
+    {
+      "number": "144",
+      "place": "2",
+      "name": "Jackson Loftus",
+      "team": "Team Lazy Tarantulas",
+      "cat": "Junior Men 15-16"
+    },
+    {
+      "number": "91",
+      "place": "3",
+      "name": "Caiden Hartrich",
+      "team": "Bend Endurance Academy",
+      "cat": "Junior Men 15-16"
+    },
+    {
+      "number": "139",
+      "place": "4",
+      "name": "Justin Saunders",
+      "team": "Half Penny Cycling Team",
+      "cat": "Junior Men 15-16"
+    },
+    {
+      "number": "96",
+      "place": "5",
+      "name": "Henry Winnenberg",
+      "team": null,
+      "cat": "Junior Men 15-16"
+    },
+    {
+      "number": "106",
+      "place": "6",
+      "name": "Jacob Litton",
+      "team": "Half Fast Velo presented by Ninkasi Brewing",
+      "cat": "Junior Men 15-16"
+    },
+    {
+      "number": "5",
+      "place": "7",
+      "name": "Dublin Wilger",
+      "team": "Team Oregon p/b Rodda Paint",
+      "cat": "Junior Men 15-16"
+    },
+    {
+      "number": "149",
+      "place": "8",
+      "name": "Joshua Bussey",
+      "team": "Showers Pass Cycling Team",
+      "cat": "Junior Men 15-16"
+    },
+    {
+      "number": "26",
+      "place": "9",
+      "name": "Grayson Rose",
+      "team": "Fast Fun Nice Racing Team p/b Wattie Ink",
+      "cat": "Junior Men 15-16"
+    },
+    {
+      "number": "15",
+      "place": "1",
+      "name": "Tygre Westerfield",
+      "team": "Dialed Cycling Team",
+      "cat": "Junior Men 17-18"
+    },
+    {
+      "number": "133",
+      "place": "2",
+      "name": "Ketner Mizee",
+      "team": "Grouptrail Cycling",
+      "cat": "Junior Men 17-18"
+    },
+    {
+      "number": "134",
+      "place": "3",
+      "name": "Tucker McManus",
+      "team": "TEAM MOUNTAIN VIEW CYCLES ",
+      "cat": "Junior Men 17-18"
+    },
+    {
+      "number": "636",
+      "place": "1",
+      "name": "Kayden Mckee",
+      "team": "PDX Devo Junior Cycling",
+      "cat": "Junior Women 10-12"
+    },
+    {
+      "number": "646",
+      "place": "2",
+      "name": "Keaghlan Robinson",
+      "team": "NWCX Project",
+      "cat": "Junior Women 10-12"
+    },
+    {
+      "number": "601",
+      "place": "3",
+      "name": "Sydney Little",
+      "team": "BeerMongers ",
+      "cat": "Junior Women 10-12"
+    },
+    {
+      "number": "647",
+      "place": "4",
+      "name": "Alexandria Beard",
+      "team": "BYRDS",
+      "cat": "Junior Women 10-12"
+    },
+    {
+      "number": "619",
+      "place": "5",
+      "name": "Coco Leritz",
+      "team": "Team Lazy Tarantulas",
+      "cat": "Junior Women 10-12"
+    },
+    {
+      "number": "645",
+      "place": "6",
+      "name": "Adison Stark",
+      "team": "Ace Window Tinting",
+      "cat": "Junior Women 10-12"
+    },
+    {
+      "number": "652",
+      "place": "7",
+      "name": "Helena Stedman",
+      "team": "Grouptrail Cycling",
+      "cat": "Junior Women 10-12"
+    },
+    {
+      "number": "653",
+      "place": "8",
+      "name": "Evelynn Mizee",
+      "team": "Grouptrail Cycling",
+      "cat": "Junior Women 10-12"
+    },
+    {
+      "number": "638",
+      "place": "9",
+      "name": "Tessa Beebe",
+      "team": "BYRDS",
+      "cat": "Junior Women 10-12"
+    },
+    {
+      "number": "622",
+      "place": "10",
+      "name": "Karlee Sarrett",
+      "team": "Dialed Cycling Team",
+      "cat": "Junior Women 10-12"
+    },
+    {
+      "number": "608",
+      "place": "11",
+      "name": "Abby Rice",
+      "team": "Team Lazy Tarantulas",
+      "cat": "Junior Women 10-12"
+    },
+    {
+      "number": "651",
+      "place": "12",
+      "name": "Laila Snyder",
+      "team": "Marys Bicycle Club",
+      "cat": "Junior Women 10-12"
+    },
+    {
+      "number": "624",
+      "place": "13",
+      "name": "Lizzy Ward",
+      "team": "Sweetpea Ladies Auxiliary",
+      "cat": "Junior Women 10-12"
+    },
+    {
+      "number": "650",
+      "place": "14",
+      "name": "Deja Dydasco",
+      "team": "Dialed Cycling Team",
+      "cat": "Junior Women 10-12"
+    },
+    {
+      "number": "654",
+      "place": "15",
+      "name": "Harper Leritz",
+      "team": "Team Lazy Tarantulas",
+      "cat": "Junior Women 10-12"
+    },
+    {
+      "number": "617",
+      "place": "16",
+      "name": "Sophia Stromquist",
+      "team": "Team Finger",
+      "cat": "Junior Women 10-12"
+    },
+    {
+      "number": "609",
+      "place": "1",
+      "name": "Madeline Stover",
+      "team": "PDX Devo Junior Cycling",
+      "cat": "Junior Women 13-14"
+    },
+    {
+      "number": "642",
+      "place": "2",
+      "name": "Samantha Scott",
+      "team": "BYRDS Boise Young Rider Dev Squad",
+      "cat": "Junior Women 13-14"
+    },
+    {
+      "number": "648",
+      "place": "3",
+      "name": "Una Mcfadin",
+      "team": "PDX Devo Junior Cycling",
+      "cat": "Junior Women 13-14"
+    },
+    {
+      "number": "639",
+      "place": "4",
+      "name": "Caroline DiVietro",
+      "team": null,
+      "cat": "Junior Women 13-14"
+    },
+    {
+      "number": "603",
+      "place": "5",
+      "name": "Kailey Rice",
+      "team": "Team Lazy Tarantulas",
+      "cat": "Junior Women 13-14"
+    },
+    {
+      "number": "605",
+      "place": "6",
+      "name": "Summer westerfield",
+      "team": "Dialed Cycling Team",
+      "cat": "Junior Women 13-14"
+    },
+    {
+      "number": "606",
+      "place": "1",
+      "name": "Emily Rice",
+      "team": "Team Lazy Tarantulas",
+      "cat": "Junior Women 15-16"
+    },
+    {
+      "number": "641",
+      "place": "2",
+      "name": "Mahika Peterson",
+      "team": "BYRDS",
+      "cat": "Junior Women 15-16"
+    },
+    {
+      "number": "607",
+      "place": "3",
+      "name": "Hannah Rice",
+      "team": "Team Lazy Tarantulas",
+      "cat": "Junior Women 15-16"
+    },
+    {
+      "number": "640",
+      "place": "4",
+      "name": "Jordyn Oldenburg",
+      "team": "BYRDS",
+      "cat": "Junior Women 15-16"
+    },
+    {
+      "number": "604",
+      "place": "5",
+      "name": "Spring Westerfield",
+      "team": "Dialed Cycling Team",
+      "cat": "Junior Women 15-16"
+    },
+    {
+      "number": "108",
+      "place": "1",
+      "name": "Jack Spranger",
+      "team": "Mt Si/Broadmark Racing",
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "28",
+      "place": "2",
+      "name": "Ian Brown",
+      "team": "Bend Endurance Academy",
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "121",
+      "place": "3",
+      "name": "Trey Trefry",
+      "team": "Broadmark/Mt Si Racing",
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "151",
+      "place": "4",
+      "name": "Calvin Spranger",
+      "team": "Mafia Racing",
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "7",
+      "place": "5",
+      "name": "Adam Kachman",
+      "team": "Mettle Cycling",
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "124",
+      "place": "6",
+      "name": "Charlie Leveroni",
+      "team": "Stages Cycling",
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "109",
+      "place": "7",
+      "name": "Spencer Severance",
+      "team": "BYRDS Cycling",
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "66",
+      "place": "8",
+      "name": "Tanner Wescott",
+      "team": "Bend Endurance Academy",
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "3",
+      "place": "9",
+      "name": "Cory Nann",
+      "team": "Team Planet X USA p/b Xiologix",
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "23",
+      "place": "10",
+      "name": "Maxwell Southam",
+      "team": "BMB Racing/Lewis & Clark College",
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "128",
+      "place": "11",
+      "name": "Jordan Miller",
+      "team": "Deschutes Brewery",
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "90",
+      "place": "12",
+      "name": "Paul Furst",
+      "team": "Dialed Cycling Team",
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "72",
+      "place": "13",
+      "name": "Jordan Wilson",
+      "team": "Marys Bicycle Club",
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "119",
+      "place": "14",
+      "name": "Christian Lam",
+      "team": "Squadra",
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "4",
+      "place": "15",
+      "name": "Chris Sarrett",
+      "team": "Dialed Cycling Team",
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "5",
+      "place": "16",
+      "name": "Keith McIntire",
+      "team": "BeerMongers ",
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "83",
+      "place": "17",
+      "name": "Aaron Russell",
+      "team": "Team Finger",
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "148",
+      "place": "18",
+      "name": "Matthew Crampton",
+      "team": "BeerMongers ",
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "134",
+      "place": "19",
+      "name": "Kelsey Ramsey",
+      "team": "Team Oregon p/b Rodda Paint",
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "15",
+      "place": "20",
+      "name": "Brad Davidson",
+      "team": "Grouptrail Cycling",
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "68",
+      "place": "21",
+      "name": "Walker Hendricks",
+      "team": "TEAM MOUNTAIN VIEW CYCLES ",
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "65",
+      "place": "22",
+      "name": "Jacob Olander",
+      "team": "Bend Endurance Academy",
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "70",
+      "place": "23",
+      "name": "Adam Ruff",
+      "team": null,
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "71",
+      "place": "24",
+      "name": "Mike Hamness",
+      "team": "Dialed Cycling Team",
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "89",
+      "place": "25",
+      "name": "Lance Heppler",
+      "team": "Dialed Cycling Team",
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "45",
+      "place": "26",
+      "name": "Adam Moore",
+      "team": "Grouptrail Cycling",
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "120",
+      "place": "27",
+      "name": "Scott Chamberlain",
+      "team": "Team Planet X USA p/b Xiologix",
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "107",
+      "place": "28",
+      "name": "Ryan McLaughlin",
+      "team": null,
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "127",
+      "place": "29",
+      "name": "Gavin Rear",
+      "team": null,
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "113",
+      "place": "30",
+      "name": "Dan Baier",
+      "team": "Team Finger",
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "79",
+      "place": "31",
+      "name": "Carter Hagedorn",
+      "team": "PDX Devo Junior Cycling",
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "111",
+      "place": "32",
+      "name": "Tyler Wilson",
+      "team": null,
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "106",
+      "place": "33",
+      "name": "Dieter Laskowski",
+      "team": "PCP Racing",
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "92",
+      "place": "34",
+      "name": "Peter Blenkiron",
+      "team": "bicycleattorney.com",
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "73",
+      "place": "35",
+      "name": "Owen Rogers",
+      "team": "TCNF.LEGAL Racing Team",
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "16",
+      "place": "36",
+      "name": "Micah Sardell",
+      "team": "Co-Motion Factory Racing Team",
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "115",
+      "place": "37",
+      "name": "Charlie Douthwaite",
+      "team": "Team Coastal",
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "2",
+      "place": "38",
+      "name": "Hayden Wierman",
+      "team": "Dialed Cycling Team",
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "125",
+      "place": "39",
+      "name": "Pierce Martin",
+      "team": "Team Finger",
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "26",
+      "place": "40",
+      "name": "Alan Barton",
+      "team": "Grown Rogue Cycling Team",
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "114",
+      "place": "41",
+      "name": "Reid Curry",
+      "team": null,
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "82",
+      "place": "42",
+      "name": "Nicholas Leritz",
+      "team": "Team Lazy Tarantulas",
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "80",
+      "place": "43",
+      "name": "Andrew Suchocki",
+      "team": "BeerMongers ",
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "122",
+      "place": "44",
+      "name": "Greg van Amerongen",
+      "team": null,
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "104",
+      "place": "45",
+      "name": "Brian Hanley",
+      "team": "BeerMongers ",
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "1",
+      "place": "46",
+      "name": "Eric Shaffner",
+      "team": "Grouptrail Cycling",
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "138",
+      "place": "47",
+      "name": "Eric Hoffman",
+      "team": "Team Coastal",
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "103",
+      "place": "48",
+      "name": "Jason Bavuso",
+      "team": "Murder of Crows",
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "158",
+      "place": "49",
+      "name": "Tanner Lujan",
+      "team": null,
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "126",
+      "place": "50",
+      "name": "Alex Nelson",
+      "team": "Team Velo City ",
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "152",
+      "place": "51",
+      "name": "Peter Gutwald",
+      "team": "Sage Titanium",
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "81",
+      "place": "52",
+      "name": "Gavin Bowen",
+      "team": "Bowen Sports Performance",
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "130",
+      "place": "53",
+      "name": "Greg McElravy",
+      "team": null,
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "110",
+      "place": "54",
+      "name": "Chris Wierman",
+      "team": "Dialed Cycling Team",
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "105",
+      "place": "55",
+      "name": "Rich Lammers",
+      "team": null,
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "57",
+      "place": "56",
+      "name": "Rafe Lehner",
+      "team": "TEAM MOUNTAIN VIEW CYCLES ",
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "19",
+      "place": "57",
+      "name": "Erik Voldengen",
+      "team": "Therapeutic Associates Racing p/b Pacific Office",
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "96",
+      "place": "58",
+      "name": "Jeff Chochon",
+      "team": "Fast Fun Nice Racing Team p/b Wattie Ink",
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "136",
+      "place": "59",
+      "name": "Michael Bernal",
+      "team": null,
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "21",
+      "place": "60",
+      "name": "Ben Tankus",
+      "team": "Byzick + Company Cycling",
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "154",
+      "place": "61",
+      "name": "Eric McKinley",
+      "team": null,
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "133",
+      "place": "62",
+      "name": "Patrick Case",
+      "team": "Swift Racing ",
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "140",
+      "place": "63",
+      "name": "Dylan Wiggins",
+      "team": "Grouptrail Cycling",
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "156",
+      "place": "64",
+      "name": "Joshua Kubisch",
+      "team": "Team Lazy Tarantulas",
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "155",
+      "place": "65",
+      "name": "CHRISTOPHER STONER",
+      "team": null,
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "33",
+      "place": "66",
+      "name": "Cory Solovewicz",
+      "team": "Swift Racing ",
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "117",
+      "place": "67",
+      "name": "Brian Little",
+      "team": "BeerMongers ",
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "18",
+      "place": "68",
+      "name": "Sean Reynolds",
+      "team": "Team Lazy Tarantulas",
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "157",
+      "place": "69",
+      "name": "Jonathan Wimberly",
+      "team": null,
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "131",
+      "place": "70",
+      "name": "Terry Campbell",
+      "team": "BeerMongers ",
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "31",
+      "place": "71",
+      "name": "Saul Lopez",
+      "team": "Half Fast Velo presented by Ninkasi Brewing",
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "149",
+      "place": "72",
+      "name": "Lucian Spampinato",
+      "team": "Bend Endurance Academy",
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "20",
+      "place": "DNF",
+      "name": "Jason Whittington",
+      "team": "Team 10 Barrel",
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "42",
+      "place": "DNF",
+      "name": "David Cushman",
+      "team": "Grouptrail Cycling",
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "53",
+      "place": "DNF",
+      "name": "Zach Rotstein",
+      "team": "Mettle Cycling",
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "153",
+      "place": "DNF",
+      "name": "Chris Blem",
+      "team": "Team Lazy Tarantulas",
+      "cat": "Men 2/3"
+    },
+    {
+      "number": "607",
+      "place": "1",
+      "name": "Seth Patla",
+      "team": "PDX TI",
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "604",
+      "place": "2",
+      "name": "Gabriel Linn",
+      "team": "Mettle Cycling",
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "746",
+      "place": "3",
+      "name": "Fred Mills",
+      "team": null,
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "668",
+      "place": "4",
+      "name": "Anthony Monteleone",
+      "team": "The Athletic",
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "651",
+      "place": "5",
+      "name": "Cliff Eslinger",
+      "team": "Evolution Racing Team/Project Bike",
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "685",
+      "place": "6",
+      "name": "Spencer Bushnell",
+      "team": "Team Lazy Tarantulas",
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "700",
+      "place": "7",
+      "name": "Kyle Mensing",
+      "team": "Stages Cycling",
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "675",
+      "place": "8",
+      "name": "Steven Beardsley",
+      "team": "Hosmer Chiropractic -RPM Mortgage",
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "743",
+      "place": "9",
+      "name": "Colin Rowan",
+      "team": "Team Wooly Mammoth",
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "620",
+      "place": "10",
+      "name": "Jacob Smith",
+      "team": null,
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "618",
+      "place": "11",
+      "name": "Ryan Weaver",
+      "team": "River City Bicycles",
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "763",
+      "place": "12",
+      "name": "Byron Breeden",
+      "team": "TEAM MOUNTAIN VIEW CYCLES ",
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "605",
+      "place": "13",
+      "name": "Sean A Carline",
+      "team": "CX Pistols p/b Gigantic Brewing",
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "739",
+      "place": "14",
+      "name": "Trevor Spahr",
+      "team": "Hosmer Chiropractic -RPM Mortgage",
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "654",
+      "place": "15",
+      "name": "Brian Lynch",
+      "team": "Team Dr Will Bar",
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "653",
+      "place": "16",
+      "name": "Ken Hahn",
+      "team": "Stumptown Cycling Club",
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "736",
+      "place": "17",
+      "name": "Tiago Reis",
+      "team": "Hutch's Bend Dental",
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "635",
+      "place": "18",
+      "name": "Kyle Ireton",
+      "team": "ANTHM Collective",
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "770",
+      "place": "19",
+      "name": "Erik Fabrizius",
+      "team": "Rapha Racing NW",
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "759",
+      "place": "20",
+      "name": "Patrick Reedy",
+      "team": "CX Pistols p/b Gigantic Brewing",
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "764",
+      "place": "21",
+      "name": "Jake Campbell",
+      "team": "Metropolis Cycle Repair",
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "649",
+      "place": "22",
+      "name": "Matthew Schwartz",
+      "team": "Metropolis Cycle Repair",
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "772",
+      "place": "23",
+      "name": "Tim Joslin",
+      "team": "Cyclepath Racing",
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "726",
+      "place": "24",
+      "name": "William Santana",
+      "team": "East Point Track Club",
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "606",
+      "place": "25",
+      "name": "Justin Philips",
+      "team": "Swift Racing ",
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "740",
+      "place": "26",
+      "name": "Craig Harrison",
+      "team": "Team Coastal",
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "748",
+      "place": "27",
+      "name": "Andy Edick",
+      "team": "Swift Racing ",
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "691",
+      "place": "28",
+      "name": "Doug Merritt",
+      "team": "BeerMongers ",
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "684",
+      "place": "29",
+      "name": "Carl Aldrich",
+      "team": "BeerMongers ",
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "720",
+      "place": "30",
+      "name": "Matt Radich",
+      "team": "Team Dr Will Bar",
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "689",
+      "place": "31",
+      "name": "Scott Wanhala",
+      "team": "Poler",
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "733",
+      "place": "32",
+      "name": "Oscar Powell",
+      "team": "Team Finger",
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "600",
+      "place": "33",
+      "name": "Sal Collura",
+      "team": "Co-Motion Factory Racing Team",
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "716",
+      "place": "34",
+      "name": "Howard Draper",
+      "team": "A New Cycling Team",
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "761",
+      "place": "35",
+      "name": "Slate Olson",
+      "team": "LODG",
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "707",
+      "place": "36",
+      "name": "Gabriel Cabatic",
+      "team": "Trusty Switchblade",
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "758",
+      "place": "37",
+      "name": "Kirk Edwards",
+      "team": "Team Lazy Tarantulas",
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "744",
+      "place": "38",
+      "name": "Shane Beers",
+      "team": "Poler CX",
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "705",
+      "place": "39",
+      "name": "Jeff Steiner",
+      "team": "Half Fast Velo presented by Ninkasi Brewing",
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "633",
+      "place": "40",
+      "name": "Steve Black",
+      "team": "Trusty Switchblade",
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "718",
+      "place": "41",
+      "name": "Adam Burgess",
+      "team": null,
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "776",
+      "place": "42",
+      "name": "Andy Leritz",
+      "team": "Team Lazy Tarantulas",
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "674",
+      "place": "43",
+      "name": "Dean Proteau",
+      "team": "Speedvagen",
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "773",
+      "place": "44",
+      "name": "Rob Thompson",
+      "team": "Grown Rogue Cycling Team",
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "738",
+      "place": "45",
+      "name": "Peter Newlands",
+      "team": null,
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "612",
+      "place": "46",
+      "name": "Mark Stoller",
+      "team": "Stumptown Cycling Club",
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "735",
+      "place": "47",
+      "name": "Jeff Copus",
+      "team": "Team 10 Barrel",
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "642",
+      "place": "48",
+      "name": "James Green",
+      "team": "Trusty Switchblade",
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "704",
+      "place": "49",
+      "name": "Aaron Radspinner",
+      "team": "Half Fast Velo presented by Ninkasi Brewing",
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "774",
+      "place": "50",
+      "name": "David Pedersen",
+      "team": null,
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "608",
+      "place": "51",
+      "name": "Jeff Nary",
+      "team": "Sagebrush Cycles",
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "750",
+      "place": "52",
+      "name": "Jeremy Zane",
+      "team": null,
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "708",
+      "place": "53",
+      "name": "Adam Vanarsdall",
+      "team": null,
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "765",
+      "place": "54",
+      "name": "Kevin Jin",
+      "team": null,
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "662",
+      "place": "55",
+      "name": "Eric Stolberg",
+      "team": "ANTHM Collective",
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "771",
+      "place": "56",
+      "name": "Jonathan Newcomb",
+      "team": null,
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "767",
+      "place": "57",
+      "name": "Jason Zadow",
+      "team": null,
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "614",
+      "place": "58",
+      "name": "Mielle Blomberg",
+      "team": "Team S+M",
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "766",
+      "place": "59",
+      "name": "Joshua Boelter",
+      "team": "Cyclepath Racing",
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "762",
+      "place": "60",
+      "name": "Mark McMurtry",
+      "team": "Cyclepath Racing",
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "647",
+      "place": "61",
+      "name": "Steven Soto",
+      "team": "Team Planet X USA p/b Xiologix",
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "768",
+      "place": "62",
+      "name": "Jordan Norris",
+      "team": "Oregon Bike Shop Racing Team",
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "775",
+      "place": "63",
+      "name": "Stephen Willis",
+      "team": null,
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "696",
+      "place": "64",
+      "name": "Vincent Zitkovich",
+      "team": null,
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "722",
+      "place": "65",
+      "name": "Brandon Gallagher",
+      "team": null,
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "732",
+      "place": "66",
+      "name": "Josue Jimenez",
+      "team": "TEAM MOUNTAIN VIEW CYCLES ",
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "756",
+      "place": "67",
+      "name": "Bradley Parker",
+      "team": "Metropolis Cycle Repair",
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "629",
+      "place": "68",
+      "name": "Eddie Barksdale",
+      "team": "Metropolis Cycle Repair",
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "769",
+      "place": "69",
+      "name": "Kevin Phomma",
+      "team": "Groading.com",
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "609",
+      "place": "70",
+      "name": "Steven Westberg",
+      "team": "Deschutes Brewery",
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "760",
+      "place": "71",
+      "name": "James Jonke",
+      "team": "Oregon Bike Shop Racing Team",
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "725",
+      "place": "DNF",
+      "name": "Dustin Pallanez",
+      "team": "Stages Cycling",
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "690",
+      "place": "DNF",
+      "name": "Caleb Trumbull",
+      "team": "TEAM MOUNTAIN VIEW CYCLES ",
+      "cat": "Singlespeed"
+    },
+    {
+      "number": "9",
+      "place": "1",
+      "name": "Ann Kennedy",
+      "team": "bicycleattorney.com",
+      "cat": "Masters Women 35+ 1/2"
+    },
+    {
+      "number": "13",
+      "place": "2",
+      "name": "Jessica Gill",
+      "team": "Team Oregon p/b Rodda Paint",
+      "cat": "Masters Women 35+ 1/2"
+    },
+    {
+      "number": "12",
+      "place": "3",
+      "name": "Erica Wescott",
+      "team": "Sunnyside Sports",
+      "cat": "Masters Women 35+ 1/2"
+    },
+    {
+      "number": "20",
+      "place": "4",
+      "name": "Stephanie Uetrecht",
+      "team": "Fulcrum Properties/WebCyclery",
+      "cat": "Masters Women 35+ 1/2"
+    },
+    {
+      "number": "29",
+      "place": "5",
+      "name": "Meg Hamilton",
+      "team": "Hutch's Eugene",
+      "cat": "Masters Women 35+ 1/2"
+    },
+    {
+      "number": "34",
+      "place": "6",
+      "name": "Sierra Callahan",
+      "team": "Sweetpea Ladies Auxiliary",
+      "cat": "Masters Women 35+ 1/2"
+    },
+    {
+      "number": "16",
+      "place": "7",
+      "name": "Carrie Day",
+      "team": "Deschutes Brewery",
+      "cat": "Masters Women 35+ 1/2"
+    },
+    {
+      "number": "1",
+      "place": "8",
+      "name": "Katy Salinas",
+      "team": "Swift Racing ",
+      "cat": "Masters Women 35+ 1/2"
+    },
+    {
+      "number": "30",
+      "place": "9",
+      "name": "Sierra Domaille",
+      "team": "Team Coastal",
+      "cat": "Masters Women 35+ 1/2"
+    },
+    {
+      "number": "18",
+      "place": "10",
+      "name": "Renee Skjersaa",
+      "team": "Deschutes Brewery",
+      "cat": "Masters Women 35+ 1/2"
+    },
+    {
+      "number": "15",
+      "place": "11",
+      "name": "Jennifer Johnson",
+      "team": "TEAM MOUNTAIN VIEW CYCLES ",
+      "cat": "Masters Women 35+ 1/2"
+    },
+    {
+      "number": "19",
+      "place": "12",
+      "name": "Elise Huggins",
+      "team": "Point S Racing",
+      "cat": "Masters Women 35+ 1/2"
+    },
+    {
+      "number": "6",
+      "place": "13",
+      "name": "Kimberly Sass",
+      "team": "Sorella Forte ",
+      "cat": "Masters Women 35+ 1/2"
+    },
+    {
+      "number": "17",
+      "place": "14",
+      "name": "Pam Power",
+      "team": "Bonk Collective",
+      "cat": "Masters Women 35+ 1/2"
+    },
+    {
+      "number": "31",
+      "place": "15",
+      "name": "Kelsey Carson",
+      "team": "Deschutes Brewery",
+      "cat": "Masters Women 35+ 1/2"
+    },
+    {
+      "number": "8",
+      "place": "16",
+      "name": "Patricia Strange",
+      "team": "Deschutes Brewery",
+      "cat": "Masters Women 35+ 1/2"
+    },
+    {
+      "number": "33",
+      "place": "17",
+      "name": "Sheri Masessa",
+      "team": "Flywheel Bicycle Solutions",
+      "cat": "Masters Women 35+ 1/2"
+    },
+    {
+      "number": "27",
+      "place": "18",
+      "name": "Michelle Mills",
+      "team": "Sunnyside Sports",
+      "cat": "Masters Women 35+ 1/2"
+    },
+    {
+      "number": "7",
+      "place": "19",
+      "name": "Anna Saltonstall",
+      "team": "Tofurkey",
+      "cat": "Masters Women 35+ 1/2"
+    },
+    {
+      "number": "24",
+      "place": "20",
+      "name": "Heather Pola",
+      "team": "Team Finger",
+      "cat": "Masters Women 35+ 1/2"
+    },
+    {
+      "number": "4",
+      "place": "21",
+      "name": "Susan Koonce",
+      "team": "Sorella Forte ",
+      "cat": "Masters Women 35+ 1/2"
+    },
+    {
+      "number": "23",
+      "place": "22",
+      "name": "Brittany Stover",
+      "team": "Team AF",
+      "cat": "Masters Women 35+ 1/2"
+    },
+    {
+      "number": "3",
+      "place": "23",
+      "name": "Rebecca Hillary",
+      "team": "Team AF",
+      "cat": "Masters Women 35+ 1/2"
+    },
+    {
+      "number": "541",
+      "place": "1",
+      "name": "Carrie Carney",
+      "team": "Hutch's Bend Dental",
+      "cat": "Masters Women 35+ 3"
+    },
+    {
+      "number": "534",
+      "place": "2",
+      "name": "Miriam Hough",
+      "team": "Fast Fun Nice Racing Team p/b Wattie Ink",
+      "cat": "Masters Women 35+ 3"
+    },
+    {
+      "number": "509",
+      "place": "3",
+      "name": "Kristi Cushman",
+      "team": "West Coast Women's Cycling p/b Oakshire Brewing",
+      "cat": "Masters Women 35+ 3"
+    },
+    {
+      "number": "521",
+      "place": "4",
+      "name": "Beth Flanagan",
+      "team": "BeerMongers ",
+      "cat": "Masters Women 35+ 3"
+    },
+    {
+      "number": "530",
+      "place": "5",
+      "name": "Carrie Hutchison",
+      "team": null,
+      "cat": "Masters Women 35+ 3"
+    },
+    {
+      "number": "519",
+      "place": "6",
+      "name": "Autumn Shreve",
+      "team": "Team AF",
+      "cat": "Masters Women 35+ 3"
+    },
+    {
+      "number": "524",
+      "place": "7",
+      "name": "Stephanie Spiak",
+      "team": "Team 10 Barrel",
+      "cat": "Masters Women 35+ 3"
+    },
+    {
+      "number": "527",
+      "place": "8",
+      "name": "Alexandra Cohen",
+      "team": "BeerMongers ",
+      "cat": "Masters Women 35+ 3"
+    },
+    {
+      "number": "500",
+      "place": "9",
+      "name": "Renee Beard",
+      "team": null,
+      "cat": "Masters Women 35+ 3"
+    },
+    {
+      "number": "508",
+      "place": "10",
+      "name": "Christy Hawkins",
+      "team": "Team AF",
+      "cat": "Masters Women 35+ 3"
+    },
+    {
+      "number": "532",
+      "place": "11",
+      "name": "Tess Weir",
+      "team": "Sweetpea Ladies Auxiliary",
+      "cat": "Masters Women 35+ 3"
+    },
+    {
+      "number": "504",
+      "place": "12",
+      "name": "Becky Rice",
+      "team": "Team Lazy Tarantulas",
+      "cat": "Masters Women 35+ 3"
+    },
+    {
+      "number": "518",
+      "place": "13",
+      "name": "Jennifer Rychlik",
+      "team": "Sweetpea Ladies Auxiliary",
+      "cat": "Masters Women 35+ 3"
+    },
+    {
+      "number": "542",
+      "place": "14",
+      "name": "Tea Rabbit",
+      "team": "Faat Fun Nice",
+      "cat": "Masters Women 35+ 3"
+    },
+    {
+      "number": "507",
+      "place": "15",
+      "name": "Danielle Reynolds",
+      "team": "Team Lazy Tarantulas",
+      "cat": "Masters Women 35+ 3"
+    },
+    {
+      "number": "544",
+      "place": "16",
+      "name": "Mari Yano",
+      "team": "Yatsugatake Cyclocross Club",
+      "cat": "Masters Women 35+ 3"
+    },
+    {
+      "number": "543",
+      "place": "DNF",
+      "name": "Sarah Layton",
+      "team": "Fast Fun Nice Racing Team p/b Wattie Ink",
+      "cat": "Masters Women 35+ 3"
+    },
+    {
+      "number": "619",
+      "place": "1",
+      "name": "Karen Goritski",
+      "team": "Rebound/Tireless Velo",
+      "cat": "Masters Women 50+"
+    },
+    {
+      "number": "620",
+      "place": "2",
+      "name": "Lora Melkonian",
+      "team": "TEAM MOUNTAIN VIEW CYCLES ",
+      "cat": "Masters Women 50+"
+    },
+    {
+      "number": "626",
+      "place": "3",
+      "name": "Kim Robinson",
+      "team": "Team Finger",
+      "cat": "Masters Women 50+"
+    },
+    {
+      "number": "603",
+      "place": "4",
+      "name": "Carolyn Daubeny",
+      "team": "Deschutes Brewery",
+      "cat": "Masters Women 50+"
+    },
+    {
+      "number": "615",
+      "place": "5",
+      "name": "Leslie Carlson",
+      "team": "Sweetpea Ladies Auxiliary",
+      "cat": "Masters Women 50+"
+    },
+    {
+      "number": "630",
+      "place": "6",
+      "name": "Cary Schusterman",
+      "team": "Sunnyside Sports",
+      "cat": "Masters Women 50+"
+    },
+    {
+      "number": "634",
+      "place": "7",
+      "name": "Mary Skrzynski",
+      "team": "Deschutes Brewery",
+      "cat": "Masters Women 50+"
+    },
+    {
+      "number": "622",
+      "place": "8",
+      "name": "Sha-Marie Brown",
+      "team": "Deschutes Brewery",
+      "cat": "Masters Women 50+"
+    },
+    {
+      "number": "613",
+      "place": "9",
+      "name": "Laila Deardorff",
+      "team": "bicycleattorney.com",
+      "cat": "Masters Women 50+"
+    },
+    {
+      "number": "605",
+      "place": "10",
+      "name": "Donna Metz",
+      "team": "bicycleattorney.com",
+      "cat": "Masters Women 50+"
+    },
+    {
+      "number": "601",
+      "place": "11",
+      "name": "Laura Vallion",
+      "team": "Team Finger",
+      "cat": "Masters Women 50+"
+    },
+    {
+      "number": "631",
+      "place": "12",
+      "name": "Heather Saviage",
+      "team": "BBC Bike Gallery Continental",
+      "cat": "Masters Women 50+"
+    },
+    {
+      "number": "608",
+      "place": "1",
+      "name": "Susan Foster",
+      "team": "Deschutes Brewery",
+      "cat": "Masters Women 60+"
+    },
+    {
+      "number": "637",
+      "place": "2",
+      "name": "Sheryl Johnson",
+      "team": "Egencia",
+      "cat": "Masters Women 60+"
+    },
+    {
+      "number": "636",
+      "place": "3",
+      "name": "Laura Gabanski",
+      "team": "Boneyard Cycling",
+      "cat": "Masters Women 60+"
+    },
+    {
+      "number": "639",
+      "place": "4",
+      "name": "Melissa Boyd",
+      "team": "Marys Bicycle Club",
+      "cat": "Masters Women 60+"
+    },
+    {
+      "number": "618",
+      "place": "5",
+      "name": "Bonnie Rosenfeld",
+      "team": "Sorella Forte ",
+      "cat": "Masters Women 60+"
+    },
+    {
+      "number": "607",
+      "place": "6",
+      "name": "Flo Leibowitz",
+      "team": "Marys Bicycle Club",
+      "cat": "Masters Women 60+"
+    },
+    {
+      "number": "154",
+      "place": "1",
+      "name": "Nicole Beckwith",
+      "team": "Team Nonstop",
+      "cat": "Women 2/3"
+    },
+    {
+      "number": "103",
+      "place": "2",
+      "name": "Kimberly Kathrein",
+      "team": "Dialed Cycling Team",
+      "cat": "Women 2/3"
+    },
+    {
+      "number": "143",
+      "place": "3",
+      "name": "Callah Robinson",
+      "team": "Rad Racing NW",
+      "cat": "Women 2/3"
+    },
+    {
+      "number": "101",
+      "place": "4",
+      "name": "Carley Leins",
+      "team": "Team Nonstop",
+      "cat": "Women 2/3"
+    },
+    {
+      "number": "139",
+      "place": "5",
+      "name": "Darragh Hildreth",
+      "team": "Dryve Wheels",
+      "cat": "Women 2/3"
+    },
+    {
+      "number": "149",
+      "place": "6",
+      "name": "Emily Rice",
+      "team": "Team Lazy Tarantulas",
+      "cat": "Women 2/3"
+    },
+    {
+      "number": "146",
+      "place": "7",
+      "name": "Sarah Jane Hash",
+      "team": "Boneyard Cycling",
+      "cat": "Women 2/3"
+    },
+    {
+      "number": "159",
+      "place": "8",
+      "name": "Mari Little",
+      "team": "BeerMongers ",
+      "cat": "Women 2/3"
+    },
+    {
+      "number": "108",
+      "place": "9",
+      "name": "Holly Baird",
+      "team": "Team Nonstop",
+      "cat": "Women 2/3"
+    },
+    {
+      "number": "102",
+      "place": "10",
+      "name": "Katy Giombolini",
+      "team": "Point S Racing",
+      "cat": "Women 2/3"
+    },
+    {
+      "number": "130",
+      "place": "11",
+      "name": "lauren ziehnert",
+      "team": "TCNF.LEGAL Racing Team",
+      "cat": "Women 2/3"
+    },
+    {
+      "number": "151",
+      "place": "12",
+      "name": "Kate Drennan",
+      "team": "BeerMongers ",
+      "cat": "Women 2/3"
+    },
+    {
+      "number": "119",
+      "place": "13",
+      "name": "Keeley Brownback",
+      "team": "TEAM MOUNTAIN VIEW CYCLES ",
+      "cat": "Women 2/3"
+    },
+    {
+      "number": "141",
+      "place": "14",
+      "name": "Bryna Curry",
+      "team": null,
+      "cat": "Women 2/3"
+    },
+    {
+      "number": "140",
+      "place": "15",
+      "name": "Lisa Gentz",
+      "team": "Boneyard Cycling",
+      "cat": "Women 2/3"
+    },
+    {
+      "number": "123",
+      "place": "16",
+      "name": "Evelyn Boling",
+      "team": "Fast Fun Nice Racing Team p/b Wattie Ink",
+      "cat": "Women 2/3"
+    },
+    {
+      "number": "158",
+      "place": "17",
+      "name": "Rachel Cameron",
+      "team": "Trusty Switchblade",
+      "cat": "Women 2/3"
+    },
+    {
+      "number": "132",
+      "place": "DNF",
+      "name": "Remy Maguire",
+      "team": "O2 Endurance",
+      "cat": "Women 2/3"
+    },
+    {
+      "number": "299",
+      "place": "1",
+      "name": "Lorena LaBarbera",
+      "team": null,
+      "cat": "Women 4"
+    },
+    {
+      "number": "286",
+      "place": "2",
+      "name": "Hannah Rice",
+      "team": "Team Lazy Tarantulas",
+      "cat": "Women 4"
+    },
+    {
+      "number": "259",
+      "place": "3",
+      "name": "Shelly Boelter",
+      "team": "Cyclepath Racing",
+      "cat": "Women 4"
+    },
+    {
+      "number": "301",
+      "place": "4",
+      "name": "Amanda Marie Zayas",
+      "team": "Fast Fun Nice Racing Team p/b Wattie Ink",
+      "cat": "Women 4"
+    },
+    {
+      "number": "279",
+      "place": "5",
+      "name": "Taylor Kennedy",
+      "team": "Team Finger",
+      "cat": "Women 4"
+    },
+    {
+      "number": "285",
+      "place": "6",
+      "name": "Beverley Floyd",
+      "team": "Co-Motion Factory Racing Team",
+      "cat": "Women 4"
+    },
+    {
+      "number": "284",
+      "place": "7",
+      "name": "Jesse Whitaker",
+      "team": "Dialed Cycling Team",
+      "cat": "Women 4"
+    },
+    {
+      "number": "252",
+      "place": "8",
+      "name": "Erica Spiritos",
+      "team": null,
+      "cat": "Women 4"
+    },
+    {
+      "number": "251",
+      "place": "9",
+      "name": "Katie Linton",
+      "team": "Team Planet X USA p/b Xiologix",
+      "cat": "Women 4"
+    },
+    {
+      "number": "300",
+      "place": "10",
+      "name": "Ashley Thompson",
+      "team": null,
+      "cat": "Women 4"
+    },
+    {
+      "number": "291",
+      "place": "11",
+      "name": "Jessica Thompson",
+      "team": "Spokesman racing",
+      "cat": "Women 4"
+    },
+    {
+      "number": "268",
+      "place": "12",
+      "name": "Kristina Owen",
+      "team": "Capitol Velo",
+      "cat": "Women 4"
+    },
+    {
+      "number": "267",
+      "place": "13",
+      "name": "Whitney Hooker",
+      "team": "Team Finger",
+      "cat": "Women 4"
+    },
+    {
+      "number": "280",
+      "place": "14",
+      "name": "Sarah Livingston",
+      "team": "Trusty Switchblade",
+      "cat": "Women 4"
+    },
+    {
+      "number": "282",
+      "place": "15",
+      "name": "Amy Seymour",
+      "team": "Trusty Switchblade",
+      "cat": "Women 4"
+    },
+    {
+      "number": "257",
+      "place": "16",
+      "name": "Shawna Pearson",
+      "team": "BeerMongers ",
+      "cat": "Women 4"
+    },
+    {
+      "number": "283",
+      "place": "17",
+      "name": "Jesse Stark",
+      "team": "Ace Window Tinting",
+      "cat": "Women 4"
+    },
+    {
+      "number": "302",
+      "place": "18",
+      "name": "Christine Weber",
+      "team": "Trusty Switchblade",
+      "cat": "Women 4"
+    },
+    {
+      "number": "290",
+      "place": "19",
+      "name": "Heather Henderson",
+      "team": null,
+      "cat": "Women 4"
+    },
+    {
+      "number": "741",
+      "place": "1",
+      "name": "Sarah Fishler Rice",
+      "team": "Half Penny Cycling Team",
+      "cat": "Women 5"
+    },
+    {
+      "number": "776",
+      "place": "2",
+      "name": "Kat Hampton",
+      "team": null,
+      "cat": "Women 5"
+    },
+    {
+      "number": "705",
+      "place": "3",
+      "name": "Alexis Gibbons",
+      "team": "Co-Motion Cycles Factory Team",
+      "cat": "Women 5"
+    },
+    {
+      "number": "761",
+      "place": "4",
+      "name": "Kaeli Laxson",
+      "team": "Otto Lock HiFi",
+      "cat": "Women 5"
+    },
+    {
+      "number": "775",
+      "place": "5",
+      "name": "Erin Lodwick",
+      "team": "Metropolis Cycle Repair",
+      "cat": "Women 5"
+    },
+    {
+      "number": "779",
+      "place": "6",
+      "name": "Stacy Ramakers",
+      "team": "Team 10 Barrel",
+      "cat": "Women 5"
+    },
+    {
+      "number": "783",
+      "place": "7",
+      "name": "Gwynne Engelking",
+      "team": "bicycleattorney.com",
+      "cat": "Women 5"
+    },
+    {
+      "number": "765",
+      "place": "8",
+      "name": "Julianna Guenther",
+      "team": null,
+      "cat": "Women 5"
+    },
+    {
+      "number": "753",
+      "place": "9",
+      "name": "Kelsey Ward",
+      "team": null,
+      "cat": "Women 5"
+    },
+    {
+      "number": "722",
+      "place": "10",
+      "name": "Sari Hargand",
+      "team": "BeerMongers ",
+      "cat": "Women 5"
+    },
+    {
+      "number": "781",
+      "place": "11",
+      "name": "Riley Marcus",
+      "team": "Team Finger",
+      "cat": "Women 5"
+    },
+    {
+      "number": "770",
+      "place": "12",
+      "name": "Jannel Waldron",
+      "team": null,
+      "cat": "Women 5"
+    },
+    {
+      "number": "769",
+      "place": "13",
+      "name": "Katharine Sampson",
+      "team": null,
+      "cat": "Women 5"
+    },
+    {
+      "number": "760",
+      "place": "14",
+      "name": "Stacy Maiano",
+      "team": null,
+      "cat": "Women 5"
+    },
+    {
+      "number": "748",
+      "place": "15",
+      "name": "Leigh Hedrick",
+      "team": "Biciclista Team PDX",
+      "cat": "Women 5"
+    },
+    {
+      "number": "778",
+      "place": "16",
+      "name": "Fairlight Fitzgerald",
+      "team": null,
+      "cat": "Women 5"
+    },
+    {
+      "number": "777",
+      "place": "17",
+      "name": "Heather Higgins Honek",
+      "team": "Team Planet X USA p/b Xiologix",
+      "cat": "Women 5"
+    },
+    {
+      "number": "773",
+      "place": "18",
+      "name": "Jessica Dalton",
+      "team": null,
+      "cat": "Women 5"
+    },
+    {
+      "number": "709",
+      "place": "19",
+      "name": "Sheena Harris",
+      "team": "BeerMongers ",
+      "cat": "Women 5"
+    },
+    {
+      "number": "771",
+      "place": "20",
+      "name": "Grace Gooch",
+      "team": null,
+      "cat": "Women 5"
+    },
+    {
+      "number": "752",
+      "place": "21",
+      "name": "Valerie Nussbaumer",
+      "team": "Team Finger",
+      "cat": "Women 5"
+    },
+    {
+      "number": "772",
+      "place": "22",
+      "name": "Kara Helgren",
+      "team": "Block Bikes",
+      "cat": "Women 5"
+    },
+    {
+      "number": "751",
+      "place": "23",
+      "name": "Kaitlin Green",
+      "team": null,
+      "cat": "Women 5"
+    },
+    {
+      "number": "780",
+      "place": "24",
+      "name": "Sarah Umberhandt",
+      "team": "Stumptown Cycling Club",
+      "cat": "Women 5"
+    },
+    {
+      "number": "766",
+      "place": "25",
+      "name": "Jenny Brown",
+      "team": null,
+      "cat": "Women 5"
+    },
+    {
+      "number": "784",
+      "place": "26",
+      "name": "diana demchenko",
+      "team": null,
+      "cat": "Women 5"
+    },
+    {
+      "number": "702",
+      "place": "27",
+      "name": "Sara Cowling",
+      "team": "Grouptrail Cycling",
+      "cat": "Women 5"
+    },
+    {
+      "number": "774",
+      "place": "28",
+      "name": "Lizzy Potter",
+      "team": null,
+      "cat": "Women 5"
+    },
+    {
+      "number": "782",
+      "place": "29",
+      "name": "Lola Macuiba",
+      "team": null,
+      "cat": "Women 5"
+    },
+    {
+      "number": "371",
+      "place": "1",
+      "name": "Shannon Skerritt",
+      "team": "Trek Cyclocross Collective",
+      "cat": "Masters 35+ 1/2"
+    },
+    {
+      "number": "316",
+      "place": "2",
+      "name": "Michael Gallagher",
+      "team": "Fast Fun Nice Racing Team p/b Wattie Ink",
+      "cat": "Masters 35+ 1/2"
+    },
+    {
+      "number": "309",
+      "place": "3",
+      "name": "Geoff Rice",
+      "team": "Team Lazy Tarantulas",
+      "cat": "Masters 35+ 1/2"
+    },
+    {
+      "number": "374",
+      "place": "4",
+      "name": "Nicholas Wood",
+      "team": "Team Oregon p/b Rodda Paint",
+      "cat": "Masters 35+ 1/2"
+    },
+    {
+      "number": "315",
+      "place": "5",
+      "name": "Michael Brown",
+      "team": "Fulcrum Properties/WebCyclery",
+      "cat": "Masters 35+ 1/2"
+    },
+    {
+      "number": "361",
+      "place": "6",
+      "name": "Owen Murphy",
+      "team": null,
+      "cat": "Masters 35+ 1/2"
+    },
+    {
+      "number": "347",
+      "place": "7",
+      "name": "Brian Kesselman",
+      "team": "ANTHM Collective",
+      "cat": "Masters 35+ 1/2"
+    },
+    {
+      "number": "356",
+      "place": "8",
+      "name": "Adrian Bosch",
+      "team": "Flywheel Bicycle Solutions",
+      "cat": "Masters 35+ 1/2"
+    },
+    {
+      "number": "357",
+      "place": "9",
+      "name": "Benjamin Brainard",
+      "team": "Flywheel Bicycle Solutions",
+      "cat": "Masters 35+ 1/2"
+    },
+    {
+      "number": "321",
+      "place": "10",
+      "name": "John Weathers",
+      "team": "bicycleattorney.com",
+      "cat": "Masters 35+ 1/2"
+    },
+    {
+      "number": "327",
+      "place": "11",
+      "name": "Webster Wilson",
+      "team": "Cyclepath Racing",
+      "cat": "Masters 35+ 1/2"
+    },
+    {
+      "number": "317",
+      "place": "12",
+      "name": "Chad Swanson",
+      "team": "Team S+M",
+      "cat": "Masters 35+ 1/2"
+    },
+    {
+      "number": "324",
+      "place": "13",
+      "name": "Matt Jamison",
+      "team": "Grouptrail Cycling",
+      "cat": "Masters 35+ 1/2"
+    },
+    {
+      "number": "318",
+      "place": "14",
+      "name": "Brian Anthony",
+      "team": "ANTHM Collective",
+      "cat": "Masters 35+ 1/2"
+    },
+    {
+      "number": "379",
+      "place": "15",
+      "name": "Shane Fletcher",
+      "team": "TCNF.LEGAL Racing Team",
+      "cat": "Masters 35+ 1/2"
+    },
+    {
+      "number": "310",
+      "place": "16",
+      "name": "Danny Weikel",
+      "team": "Fast Fun Nice Racing Team p/b Wattie Ink",
+      "cat": "Masters 35+ 1/2"
+    },
+    {
+      "number": "330",
+      "place": "17",
+      "name": "Craig Armstrong",
+      "team": "HiFi Sound Cycling Components",
+      "cat": "Masters 35+ 1/2"
+    },
+    {
+      "number": "302",
+      "place": "18",
+      "name": "Carl Werner",
+      "team": null,
+      "cat": "Masters 35+ 1/2"
+    },
+    {
+      "number": "334",
+      "place": "19",
+      "name": "Tre Hendricks",
+      "team": "TEAM MOUNTAIN VIEW CYCLES ",
+      "cat": "Masters 35+ 1/2"
+    },
+    {
+      "number": "354",
+      "place": "20",
+      "name": "Devin Bailly",
+      "team": "BeerMongers ",
+      "cat": "Masters 35+ 1/2"
+    },
+    {
+      "number": "320",
+      "place": "21",
+      "name": "Greg Adams",
+      "team": "Cyclepath Racing",
+      "cat": "Masters 35+ 1/2"
+    },
+    {
+      "number": "369",
+      "place": "22",
+      "name": "Ryan Brown",
+      "team": "Chinook Cycling Club",
+      "cat": "Masters 35+ 1/2"
+    },
+    {
+      "number": "377",
+      "place": "23",
+      "name": "Daisuke Yano",
+      "team": "Speedvagen Family Racing",
+      "cat": "Masters 35+ 1/2"
+    },
+    {
+      "number": "326",
+      "place": "24",
+      "name": "Chip Sloan",
+      "team": "Gründelbrüisers/Stewie Bicycles",
+      "cat": "Masters 35+ 1/2"
+    },
+    {
+      "number": "372",
+      "place": "25",
+      "name": "Robert Uetrecht",
+      "team": "Fulcrum Properties/WebCyclery",
+      "cat": "Masters 35+ 1/2"
+    },
+    {
+      "number": "350",
+      "place": "26",
+      "name": "David Prause",
+      "team": "Gründelbrüisers/Stewie Bicycles",
+      "cat": "Masters 35+ 1/2"
+    },
+    {
+      "number": "338",
+      "place": "27",
+      "name": "Mark DeResta",
+      "team": "Team Finger",
+      "cat": "Masters 35+ 1/2"
+    },
+    {
+      "number": "373",
+      "place": "28",
+      "name": "Dustin Henderson",
+      "team": "Deschutes Brewery",
+      "cat": "Masters 35+ 1/2"
+    },
+    {
+      "number": "345",
+      "place": "29",
+      "name": "Andy Kunkler",
+      "team": "Team Finger",
+      "cat": "Masters 35+ 1/2"
+    },
+    {
+      "number": "340",
+      "place": "30",
+      "name": "Christopher Ramsey",
+      "team": "Therapeutic Associates Racing p/b Pacific Office",
+      "cat": "Masters 35+ 1/2"
+    },
+    {
+      "number": "363",
+      "place": "31",
+      "name": "Jason Schroeder",
+      "team": "Therapeutic Associates Racing p/b Pacific Office",
+      "cat": "Masters 35+ 1/2"
+    },
+    {
+      "number": "306",
+      "place": "32",
+      "name": "Robert Umberhandt",
+      "team": "Stumptown Cycling Club",
+      "cat": "Masters 35+ 1/2"
+    },
+    {
+      "number": "378",
+      "place": "33",
+      "name": "Joshua DeGraff",
+      "team": "Grouptrail Cycling",
+      "cat": "Masters 35+ 1/2"
+    },
+    {
+      "number": "368",
+      "place": "34",
+      "name": "Eric Lanners",
+      "team": "Gründelbrüisers/Stewie Bicycles",
+      "cat": "Masters 35+ 1/2"
+    },
+    {
+      "number": "381",
+      "place": "35",
+      "name": "Doug Minarik",
+      "team": "bicycleattorney.com",
+      "cat": "Masters 35+ 1/2"
+    },
+    {
+      "number": "311",
+      "place": "36",
+      "name": "Derek Bowers",
+      "team": null,
+      "cat": "Masters 35+ 1/2"
+    },
+    {
+      "number": "365",
+      "place": "37",
+      "name": "Matthew White",
+      "team": "Marys Bicycle Club",
+      "cat": "Masters 35+ 1/2"
+    },
+    {
+      "number": "382",
+      "place": "38",
+      "name": "Brian Meyer",
+      "team": null,
+      "cat": "Masters 35+ 1/2"
+    },
+    {
+      "number": "303",
+      "place": "DNF",
+      "name": "Bryce Jenkinson",
+      "team": "Team Finger",
+      "cat": "Masters 35+ 1/2"
+    },
+    {
+      "number": "305",
+      "place": "DNF",
+      "name": "David Krause",
+      "team": "Trusty Switchblade",
+      "cat": "Masters 35+ 1/2"
+    },
+    {
+      "number": "333",
+      "place": "DNF",
+      "name": "Andy Olsson",
+      "team": "TEAM MOUNTAIN VIEW CYCLES ",
+      "cat": "Masters 35+ 1/2"
+    },
+    {
+      "number": "47",
+      "place": "1",
+      "name": "Sean Babcock",
+      "team": "Team S+M",
+      "cat": "Men 1/2"
+    },
+    {
+      "number": "25",
+      "place": "2",
+      "name": "Molly Cameron",
+      "team": "Point S Nokian",
+      "cat": "Men 1/2"
+    },
+    {
+      "number": "10",
+      "place": "3",
+      "name": "Jeremy Russell",
+      "team": "River City Bicycles/Bike Law",
+      "cat": "Men 1/2"
+    },
+    {
+      "number": "32",
+      "place": "4",
+      "name": "Ryder Uetrecht",
+      "team": "Top Club",
+      "cat": "Men 1/2"
+    },
+    {
+      "number": "18",
+      "place": "5",
+      "name": "Seth Patla",
+      "team": "PDX TI",
+      "cat": "Men 1/2"
+    },
+    {
+      "number": "34",
+      "place": "6",
+      "name": "James Ceccorulli",
+      "team": "Team S+M",
+      "cat": "Men 1/2"
+    },
+    {
+      "number": "5",
+      "place": "7",
+      "name": "Max Ritzow",
+      "team": "PDX TI",
+      "cat": "Men 1/2"
+    },
+    {
+      "number": "31",
+      "place": "8",
+      "name": "Damian Schmitt",
+      "team": "Point S Racing",
+      "cat": "Men 1/2"
+    },
+    {
+      "number": "22",
+      "place": "9",
+      "name": "Mitchell Trux",
+      "team": "PDX TI",
+      "cat": "Men 1/2"
+    },
+    {
+      "number": "13",
+      "place": "10",
+      "name": "Andrew Coe",
+      "team": "PDX TI",
+      "cat": "Men 1/2"
+    },
+    {
+      "number": "1",
+      "place": "11",
+      "name": "Felipe Nystrom",
+      "team": "Western Bikeworks",
+      "cat": "Men 1/2"
+    },
+    {
+      "number": "44",
+      "place": "12",
+      "name": "Brad Petersen",
+      "team": "Bonk Collective",
+      "cat": "Men 1/2"
+    },
+    {
+      "number": "9",
+      "place": "13",
+      "name": "Evan Murphy",
+      "team": "LUDWIGN&LARSEN",
+      "cat": "Men 1/2"
+    },
+    {
+      "number": "50",
+      "place": "14",
+      "name": "Max McBride",
+      "team": "Bicycleway.com/OPS",
+      "cat": "Men 1/2"
+    },
+    {
+      "number": "59",
+      "place": "15",
+      "name": "Leland Gilmore",
+      "team": "River City Bicycles",
+      "cat": "Men 1/2"
+    },
+    {
+      "number": "11",
+      "place": "16",
+      "name": "Erik Hammerquist",
+      "team": "TCNF.LEGAL Racing Team",
+      "cat": "Men 1/2"
+    },
+    {
+      "number": "54",
+      "place": "17",
+      "name": "Matthew Paez",
+      "team": "Gearfix",
+      "cat": "Men 1/2"
+    },
+    {
+      "number": "51",
+      "place": "18",
+      "name": "Nate Youngs",
+      "team": "Therapeutic Associates Racing p/b Pacific Office",
+      "cat": "Men 1/2"
+    },
+    {
+      "number": "57",
+      "place": "19",
+      "name": "Billy Bergen IV",
+      "team": "Project Bike Bend",
+      "cat": "Men 1/2"
+    },
+    {
+      "number": "38",
+      "place": "20",
+      "name": "Josiah Zukowski",
+      "team": "Point S Racing",
+      "cat": "Men 1/2"
+    },
+    {
+      "number": "49",
+      "place": "21",
+      "name": "Randall Fransen",
+      "team": "Mettle Cycling",
+      "cat": "Men 1/2"
+    },
+    {
+      "number": "15",
+      "place": "22",
+      "name": "Andrew Smith",
+      "team": "Swift Racing ",
+      "cat": "Men 1/2"
+    },
+    {
+      "number": "46",
+      "place": "23",
+      "name": "Jacob Rathe",
+      "team": null,
+      "cat": "Men 1/2"
+    },
+    {
+      "number": "56",
+      "place": "24",
+      "name": "Justin Ziehnert",
+      "team": "TCNF.LEGAL Racing Team",
+      "cat": "Men 1/2"
+    },
+    {
+      "number": "14",
+      "place": "25",
+      "name": "Paul Armstrong",
+      "team": null,
+      "cat": "Men 1/2"
+    },
+    {
+      "number": "29",
+      "place": "26",
+      "name": "Paul Furst",
+      "team": "Dialed Cycling Team",
+      "cat": "Men 1/2"
+    },
+    {
+      "number": "4",
+      "place": "27",
+      "name": "Xander Viray",
+      "team": "Mettle Cycling",
+      "cat": "Men 1/2"
+    },
+    {
+      "number": "63",
+      "place": "DNF",
+      "name": "Elijah Krause",
+      "team": "Bend Endurance Academy/Trusy Switchblade ",
+      "cat": "Men 1/2"
+    },
+    {
+      "number": "12",
+      "place": "DNF",
+      "name": "Matthew Smith",
+      "team": "Swift Racing ",
+      "cat": "Men 1/2"
+    },
+    {
+      "number": "62",
+      "place": "DNF",
+      "name": "Paul Johnson",
+      "team": "Trusty Switchblade",
+      "cat": "Men 1/2"
+    },
+    {
+      "number": "831",
+      "place": "1",
+      "name": "Anne Davis Usher",
+      "team": "Fast Fun Nice Racing Team p/b Wattie Ink",
+      "cat": "Women 1/2"
+    },
+    {
+      "number": "809",
+      "place": "2",
+      "name": "Janelle Bickford",
+      "team": "Metropolis Cycle Repair",
+      "cat": "Women 1/2"
+    },
+    {
+      "number": "826",
+      "place": "3",
+      "name": "Ashlyn Johnson",
+      "team": "Fast Fun Nice Racing Team p/b Wattie Ink",
+      "cat": "Women 1/2"
+    },
+    {
+      "number": "807",
+      "place": "4",
+      "name": "Mckenna Mckee",
+      "team": "TCNF.LEGAL Racing Team",
+      "cat": "Women 1/2"
+    },
+    {
+      "number": "806",
+      "place": "5",
+      "name": "Holland LaRue",
+      "team": "Team Finger",
+      "cat": "Women 1/2"
+    },
+    {
+      "number": "829",
+      "place": "6",
+      "name": "Laura Parsons",
+      "team": "Nonstop",
+      "cat": "Women 1/2"
+    },
+    {
+      "number": "830",
+      "place": "7",
+      "name": "Rachel Geiter",
+      "team": "Razzel Dazzel Racing",
+      "cat": "Women 1/2"
+    },
+    {
+      "number": "827",
+      "place": "8",
+      "name": "Elizabeth White",
+      "team": "Bicycle Express",
+      "cat": "Women 1/2"
+    },
+    {
+      "number": "834",
+      "place": "9",
+      "name": "Kristen minarik",
+      "team": "bicycleattorney.com",
+      "cat": "Women 1/2"
+    },
+    {
+      "number": "805",
+      "place": "10",
+      "name": "Laura Schmitt",
+      "team": "CX Pistols p/b Gigantic Brewing",
+      "cat": "Women 1/2"
+    },
+    {
+      "number": "833",
+      "place": "11",
+      "name": "Nikki Balderson",
+      "team": "bicycleattorney.com",
+      "cat": "Women 1/2"
+    },
+    {
+      "number": "822",
+      "place": "DNF",
+      "name": "Allison Halpin",
+      "team": "PDX TI",
+      "cat": "Women 1/2"
+    },
+    {
+      "number": "579",
+      "place": "1",
+      "name": "Dorothy Topper",
+      "team": "Team Finger",
+      "cat": "Athena"
+    },
+    {
+      "number": "575",
+      "place": "2",
+      "name": "Sonja Ebert",
+      "team": "Dialed Cycling Team",
+      "cat": "Athena"
+    },
+    {
+      "number": "585",
+      "place": "3",
+      "name": "Amy Tarnow",
+      "team": "Boneyard Cycling",
+      "cat": "Athena"
+    },
+    {
+      "number": "582",
+      "place": "4",
+      "name": "Kathy Hovermale",
+      "team": "Deschutes Brewery",
+      "cat": "Athena"
+    },
+    {
+      "number": "586",
+      "place": "5",
+      "name": "Libby Edmond",
+      "team": "Rolling Thunder p/b The Missing Link",
+      "cat": "Athena"
+    },
+    {
+      "number": "578",
+      "place": "6",
+      "name": "Kim Gerhardt",
+      "team": "Team Planet X USA p/b Xiologix",
+      "cat": "Athena"
+    },
+    {
+      "number": "583",
+      "place": "7",
+      "name": "Jessica Hunter",
+      "team": "Rolling Thunder p/b The Missing Link",
+      "cat": "Athena"
+    },
+    {
+      "number": "584",
+      "place": "8",
+      "name": "Vikki Bourcier",
+      "team": "TCNF.LEGAL Racing Team",
+      "cat": "Athena"
+    },
+    {
+      "number": "705",
+      "place": "1",
+      "name": "Aaron Coker",
+      "team": "Sage Titanium",
+      "cat": "Clydesdale"
+    },
+    {
+      "number": "730",
+      "place": "2",
+      "name": "Jonathan Meyer",
+      "team": "Dialed Cycling Team",
+      "cat": "Clydesdale"
+    },
+    {
+      "number": "700",
+      "place": "3",
+      "name": "David Rosen",
+      "team": "Sage Titanium",
+      "cat": "Clydesdale"
+    },
+    {
+      "number": "750",
+      "place": "4",
+      "name": "Jack Trumbull",
+      "team": "TEAM MOUNTAIN VIEW CYCLES ",
+      "cat": "Clydesdale"
+    },
+    {
+      "number": "753",
+      "place": "5",
+      "name": "David Boxberger",
+      "team": null,
+      "cat": "Clydesdale"
+    },
+    {
+      "number": "709",
+      "place": "6",
+      "name": "Nathan Koch",
+      "team": "Team Finger",
+      "cat": "Clydesdale"
+    },
+    {
+      "number": "725",
+      "place": "7",
+      "name": "Walter Mcknight",
+      "team": "Deschutes Brewery",
+      "cat": "Clydesdale"
+    },
+    {
+      "number": "751",
+      "place": "8",
+      "name": "Tyson Hart",
+      "team": "Half Fast Velo presented by Ninkasi Brewing",
+      "cat": "Clydesdale"
+    },
+    {
+      "number": "737",
+      "place": "9",
+      "name": "Spencer Rockwell",
+      "team": "Half Penny Cycling Team",
+      "cat": "Clydesdale"
+    },
+    {
+      "number": "745",
+      "place": "10",
+      "name": "Peter Iverson",
+      "team": null,
+      "cat": "Clydesdale"
+    },
+    {
+      "number": "760",
+      "place": "11",
+      "name": "Greg Lawler",
+      "team": "Team Lazy Tarantulas",
+      "cat": "Clydesdale"
+    },
+    {
+      "number": "731",
+      "place": "12",
+      "name": "Tim Schauer",
+      "team": "Sage Titanium",
+      "cat": "Clydesdale"
+    },
+    {
+      "number": "742",
+      "place": "13",
+      "name": "Nikolas Heagy",
+      "team": "Fast Fun Nice Racing Team p/b Wattie Ink",
+      "cat": "Clydesdale"
+    },
+    {
+      "number": "738",
+      "place": "14",
+      "name": "Michael Clark",
+      "team": "Stumptown Cycling Club",
+      "cat": "Clydesdale"
+    },
+    {
+      "number": "703",
+      "place": "15",
+      "name": "Doug Brecht",
+      "team": "Team 10 Barrel",
+      "cat": "Clydesdale"
+    },
+    {
+      "number": "744",
+      "place": "16",
+      "name": "Steve Danielson",
+      "team": "Team Lazy Tarantulas",
+      "cat": "Clydesdale"
+    },
+    {
+      "number": "732",
+      "place": "17",
+      "name": "Alan Thomason",
+      "team": "Deschutes Brewery",
+      "cat": "Clydesdale"
+    },
+    {
+      "number": "757",
+      "place": "18",
+      "name": "Thomas Duffly",
+      "team": null,
+      "cat": "Clydesdale"
+    },
+    {
+      "number": "747",
+      "place": "19",
+      "name": "Jon Bouffleur",
+      "team": null,
+      "cat": "Clydesdale"
+    },
+    {
+      "number": "755",
+      "place": "20",
+      "name": "Matthew Borisch",
+      "team": null,
+      "cat": "Clydesdale"
+    },
+    {
+      "number": "706",
+      "place": "21",
+      "name": "Scott Rath",
+      "team": "Sage Titanium",
+      "cat": "Clydesdale"
+    },
+    {
+      "number": "717",
+      "place": "22",
+      "name": "Mark Sather",
+      "team": "Team 10 Barrel",
+      "cat": "Clydesdale"
+    },
+    {
+      "number": "754",
+      "place": "23",
+      "name": "Mike Estes",
+      "team": null,
+      "cat": "Clydesdale"
+    },
+    {
+      "number": "762",
+      "place": "24",
+      "name": "William Glasson",
+      "team": "Half Fast Velo presented by Ninkasi Brewing",
+      "cat": "Clydesdale"
+    },
+    {
+      "number": "758",
+      "place": "25",
+      "name": "Lewis Dixon",
+      "team": null,
+      "cat": "Clydesdale"
+    },
+    {
+      "number": "752",
+      "place": "26",
+      "name": "James Emond",
+      "team": "Rolling Thunder p/b The Missing Link",
+      "cat": "Clydesdale"
+    },
+    {
+      "number": "761",
+      "place": "27",
+      "name": "Jacob Hammond",
+      "team": "Cycle Analysis",
+      "cat": "Clydesdale"
+    },
+    {
+      "number": "759",
+      "place": "28",
+      "name": "Amory Cheney",
+      "team": "Deschutes Brewery",
+      "cat": "Clydesdale"
+    },
+    {
+      "number": "702",
+      "place": "29",
+      "name": "Ed Waters",
+      "team": null,
+      "cat": "Clydesdale"
+    },
+    {
+      "number": "719",
+      "place": "30",
+      "name": "Jon Ragsdale",
+      "team": "Fred Meyer/Lakeside Cycling Team",
+      "cat": "Clydesdale"
+    },
+    {
+      "number": "749",
+      "place": "31",
+      "name": "Bryan Smith",
+      "team": "Hammer Velo",
+      "cat": "Clydesdale"
+    },
+    {
+      "number": "46",
+      "place": "1",
+      "name": "Jackson Jones",
+      "team": "BYRDS",
+      "cat": "Men 4"
+    },
+    {
+      "number": "44",
+      "place": "2",
+      "name": "Drew Hankins",
+      "team": "Mettle Cycling",
+      "cat": "Men 4"
+    },
+    {
+      "number": "39",
+      "place": "3",
+      "name": "Jonathan Coy",
+      "team": "Team Finger",
+      "cat": "Men 4"
+    },
+    {
+      "number": "69",
+      "place": "4",
+      "name": "Sam Walker",
+      "team": null,
+      "cat": "Men 4"
+    },
+    {
+      "number": "73",
+      "place": "5",
+      "name": "Ivor van Maaren",
+      "team": null,
+      "cat": "Men 4"
+    },
+    {
+      "number": "53",
+      "place": "6",
+      "name": "Daniel Peterson",
+      "team": "Hammer Velo",
+      "cat": "Men 4"
+    },
+    {
+      "number": "25",
+      "place": "7",
+      "name": "Bradley Ling",
+      "team": null,
+      "cat": "Men 4"
+    },
+    {
+      "number": "54",
+      "place": "8",
+      "name": "Colin Dunlap",
+      "team": null,
+      "cat": "Men 4"
+    },
+    {
+      "number": "48",
+      "place": "9",
+      "name": "Moses Keener",
+      "team": "Capitol Velo",
+      "cat": "Men 4"
+    },
+    {
+      "number": "32",
+      "place": "10",
+      "name": "Sean Wallace",
+      "team": "Fast Fun Nice Racing Team p/b Wattie Ink",
+      "cat": "Men 4"
+    },
+    {
+      "number": "43",
+      "place": "11",
+      "name": "Travis Hall",
+      "team": "Stages Cycling",
+      "cat": "Men 4"
+    },
+    {
+      "number": "41",
+      "place": "12",
+      "name": "Casey DePeel",
+      "team": "Bonk Collective",
+      "cat": "Men 4"
+    },
+    {
+      "number": "82",
+      "place": "13",
+      "name": "Jordan Taylor",
+      "team": "bicycleattorney.com",
+      "cat": "Men 4"
+    },
+    {
+      "number": "75",
+      "place": "14",
+      "name": "Petr Honek",
+      "team": "Team Planet X USA p/b Xiologix",
+      "cat": "Men 4"
+    },
+    {
+      "number": "57",
+      "place": "15",
+      "name": "Chris Parco",
+      "team": "Ace Window Tinting",
+      "cat": "Men 4"
+    },
+    {
+      "number": "58",
+      "place": "16",
+      "name": "James mcdonaugh",
+      "team": "BYRDS",
+      "cat": "Men 4"
+    },
+    {
+      "number": "80",
+      "place": "17",
+      "name": "Jackson Loftus",
+      "team": "Team Lazy Tarantulas",
+      "cat": "Men 4"
+    },
+    {
+      "number": "67",
+      "place": "18",
+      "name": "James McGrew",
+      "team": "Team Finger",
+      "cat": "Men 4"
+    },
+    {
+      "number": "47",
+      "place": "19",
+      "name": "Henry Kaeser",
+      "team": "Broadmark Mt. Si",
+      "cat": "Men 4"
+    },
+    {
+      "number": "42",
+      "place": "20",
+      "name": "Will Gillette",
+      "team": null,
+      "cat": "Men 4"
+    },
+    {
+      "number": "50",
+      "place": "21",
+      "name": "Ondrej Podlesak",
+      "team": "Czech",
+      "cat": "Men 4"
+    },
+    {
+      "number": "62",
+      "place": "22",
+      "name": "Brady Rice",
+      "team": "Team Lazy Tarantulas",
+      "cat": "Men 4"
+    },
+    {
+      "number": "81",
+      "place": "23",
+      "name": "Sean Gabrielli",
+      "team": null,
+      "cat": "Men 4"
+    },
+    {
+      "number": "33",
+      "place": "24",
+      "name": "Samuel Smith",
+      "team": null,
+      "cat": "Men 4"
+    },
+    {
+      "number": "74",
+      "place": "25",
+      "name": "Michael McGehee",
+      "team": null,
+      "cat": "Men 4"
+    },
+    {
+      "number": "78",
+      "place": "26",
+      "name": "Ben Gagosian",
+      "team": "Swift Racing ",
+      "cat": "Men 4"
+    },
+    {
+      "number": "40",
+      "place": "27",
+      "name": "Spencer Roedel",
+      "team": null,
+      "cat": "Men 4"
+    },
+    {
+      "number": "84",
+      "place": "28",
+      "name": "Jeremy Kennedy",
+      "team": null,
+      "cat": "Men 4"
+    },
+    {
+      "number": "68",
+      "place": "29",
+      "name": "Joseph French",
+      "team": "Swift Racing ",
+      "cat": "Men 4"
+    },
+    {
+      "number": "72",
+      "place": "30",
+      "name": "Christopher McCarthy",
+      "team": "Gladyators ",
+      "cat": "Men 4"
+    },
+    {
+      "number": "63",
+      "place": "31",
+      "name": "Adam Nicholas",
+      "team": "Gladyators ",
+      "cat": "Men 4"
+    },
+    {
+      "number": "77",
+      "place": "32",
+      "name": "Edward Kasch",
+      "team": null,
+      "cat": "Men 4"
+    },
+    {
+      "number": "70",
+      "place": "33",
+      "name": "Bryce Bierwirth",
+      "team": "Eugene Velo Racing",
+      "cat": "Men 4"
+    },
+    {
+      "number": "3",
+      "place": "34",
+      "name": "Steven Westberg",
+      "team": "Deschutes Brewery",
+      "cat": "Men 4"
+    },
+    {
+      "number": "83",
+      "place": "35",
+      "name": "Aidan Rice94273333",
+      "team": "Team Lazy Tarantulas",
+      "cat": "Men 4"
+    },
+    {
+      "number": "76",
+      "place": "36",
+      "name": "Benjamin Sampson",
+      "team": "Nossa Familia Cycling",
+      "cat": "Men 4"
+    },
+    {
+      "number": "13",
+      "place": "DNF",
+      "name": "Brian Fahey",
+      "team": "Bonk Collective",
+      "cat": "Men 4"
+    },
+    {
+      "number": "66",
+      "place": "DNF",
+      "name": "Christopher Clifford",
+      "team": "Lewis and Clark College",
+      "cat": "Men 4"
+    },
+    {
+      "number": "79",
+      "place": "DNF",
+      "name": "Anthony T. Smith",
+      "team": "Southwest Bicycle/Absolute Six-Pack",
+      "cat": "Men 4"
+    },
+    {
+      "number": "71",
+      "place": "DNF",
+      "name": "Justin Rackley",
+      "team": "Hosmer Chiropractic -RPM Mortgage",
+      "cat": "Men 4"
+    }
+  ]
+}
