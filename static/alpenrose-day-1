@@ -1,5 +1,6 @@
 {
-  "Alpenrose Dairy Day 1": [
+  "race": "Alpenrose Dairy Day 1",
+  "results": [
     {
       "number": "581",
       "place": "1",
@@ -6128,7 +6129,7 @@
     {
       "number": "18",
       "place": "6",
-      "name": "Aidan Rice94273333",
+      "name": "Aidan Rice",
       "team": "Team Lazy Tarantulas",
       "cat": "Junior Men 13-14"
     },

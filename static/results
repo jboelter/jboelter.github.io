@@ -1,0 +1,18 @@
+[
+    {
+        "race": "Alpenrose Dairy Day 1",
+        "url": "/static/alpenrose-day-1"
+    },
+    {
+        "race": "Alpenrose Dairy Day 2",
+        "url": "/static/alpenrose-day-2"
+    },
+    {
+        "race": "PIR Heron Lakes",
+        "url": "/static/pir-heron-lakes"
+    },
+    {
+        "race": "Cascade Locks",
+        "url": "/static/cascade-locks"
+    }
+]

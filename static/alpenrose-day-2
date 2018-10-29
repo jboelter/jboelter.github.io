@@ -1,5 +1,6 @@
 {
-  "Alpenrose Dairy Day 2": [
+  "race": "Alpenrose Dairy Day 2",
+  "results": [
     {
       "number": "153",
       "place": "1",
@@ -2719,7 +2720,7 @@
     {
       "number": "18",
       "place": "4",
-      "name": "Aidan Rice94273333",
+      "name": "Aidan Rice",
       "team": "Team Lazy Tarantulas",
       "cat": "Junior Men 13-14"
     },
@@ -6058,7 +6059,7 @@
     {
       "number": "83",
       "place": "35",
-      "name": "Aidan Rice94273333",
+      "name": "Aidan Rice",
       "team": "Team Lazy Tarantulas",
       "cat": "Men 4"
     },

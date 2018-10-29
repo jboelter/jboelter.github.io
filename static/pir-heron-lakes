@@ -1,5 +1,6 @@
 {
-  "PIR Heron Lakes": [
+  "race": "PIR Heron Lakes",
+  "results": [
     {
       "number": "575",
       "place": "1",
@@ -507,7 +508,7 @@
     {
       "number": "83",
       "place": "27",
-      "name": "Aidan Rice94273333",
+      "name": "Aidan Rice",
       "team": "Team Lazy Tarantulas",
       "cat": "Men 4"
     },
@@ -2551,7 +2552,7 @@
     {
       "number": "18",
       "place": "4",
-      "name": "Aidan Rice94273333",
+      "name": "Aidan Rice",
       "team": "Team Lazy Tarantulas",
       "cat": "Junior Men 13-14"
     },
